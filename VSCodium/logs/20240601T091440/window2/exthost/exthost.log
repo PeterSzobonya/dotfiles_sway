@@ -1,0 +1,16 @@
+2024-06-01 11:24:20.424 [info] Extension host with pid 107096 started
+2024-06-01 11:24:20.424 [info] Skipping acquiring lock for /home/peter/.config/VSCodium/User/workspaceStorage/d9e1799a8dbc1a81b5f2e58aec802f84.
+2024-06-01 11:24:20.475 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2024-06-01 11:24:20.497 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-06-01 11:24:20.508 [info] Eager extensions activated
+2024-06-01 11:24:20.522 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-06-01 11:24:20.530 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-06-01 11:24:20.538 [info] ExtensionService#_doActivateExtension dsznajder.es7-react-js-snippets, startup: false, activationEvent: 'onStartupFinished'
+2024-06-01 11:24:22.504 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2024-06-01 11:24:28.692 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2024-06-01 11:24:28.727 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-06-01 12:06:26.080 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2024-06-01 12:06:26.087 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2024-06-01 12:06:26.746 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+2024-06-01 21:11:32.096 [info] Extension host terminating: renderer closed the MessagePort
+2024-06-01 21:11:32.112 [info] Extension host with pid 107096 exiting with code 0

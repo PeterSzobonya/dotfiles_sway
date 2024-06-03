@@ -1,0 +1,20 @@
+2024/06/03-20:41:11.300 4 Reusing MANIFEST /home/peter/.config/thorium/Default/Local Storage/leveldb/MANIFEST-000001
+2024/06/03-20:41:11.308 4 Recovering log #680
+2024/06/03-20:41:11.311 4 Reusing old log /home/peter/.config/thorium/Default/Local Storage/leveldb/000680.log 
+2024/06/03-20:42:13.468 5 Level-0 table #684: started
+2024/06/03-20:42:13.476 5 Level-0 table #684: 29344 bytes OK
+2024/06/03-20:42:13.483 5 Delete type=0 #680
+2024/06/03-20:42:13.484 5 Compacting 4@0 + 1@1 files
+2024/06/03-20:42:13.523 5 Generated table #685@0: 1297 keys, 1085077 bytes
+2024/06/03-20:42:13.523 5 Compacted 4@0 + 1@1 files => 1085077 bytes
+2024/06/03-20:42:13.526 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/06/03-20:42:13.527 5 Delete type=2 #681
+2024/06/03-20:42:13.528 5 Delete type=2 #677
+2024/06/03-20:42:13.528 5 Delete type=2 #675
+2024/06/03-20:42:13.528 5 Delete type=2 #684
+2024/06/03-20:42:13.528 5 Delete type=2 #679
+2024/06/03-20:46:11.972 5 Level-0 table #687: started
+2024/06/03-20:46:11.990 5 Level-0 table #687: 409047 bytes OK
+2024/06/03-20:46:11.996 5 Delete type=0 #683
+2024/06/03-20:50:12.262 5 Level-0 table #689: started
+2024/06/03-20:50:12.272 5 Level-0 table #689: 62694 bytes OK

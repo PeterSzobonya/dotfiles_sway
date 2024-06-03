@@ -1,0 +1,26 @@
+2024/06/02-09:39:15.639 40c Creating DB /home/peter/.config/thorium/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb since it was missing.
+2024/06/02-09:39:15.645 40c Reusing MANIFEST /home/peter/.config/thorium/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/02-10:28:09.903 40d Level-0 table #5: started
+2024/06/02-10:28:09.931 40d Level-0 table #5: 2183253 bytes OK
+2024/06/02-10:28:09.936 40d Delete type=0 #3
+2024/06/02-11:19:21.086 40d Level-0 table #7: started
+2024/06/02-11:19:21.129 40d Level-0 table #7: 2083222 bytes OK
+2024/06/02-11:19:21.133 40d Delete type=0 #4
+2024/06/02-11:24:09.921 40c Compacting 1@1 + 1@2 files
+2024/06/02-11:24:09.950 40c Generated table #8@1: 53 keys, 11690 bytes
+2024/06/02-11:24:09.950 40c Compacted 1@1 + 1@2 files => 11690 bytes
+2024/06/02-11:24:09.954 40c compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/06/02-11:24:09.955 40c Delete type=2 #7
+2024/06/02-11:24:09.955 40c Delete type=2 #5
+2024/06/02-11:55:26.357 40c Level-0 table #10: started
+2024/06/02-11:55:26.371 40c Level-0 table #10: 1493018 bytes OK
+2024/06/02-11:55:26.375 40c Delete type=0 #6
+2024/06/02-11:55:26.376 40c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/06/02-11:55:26.377 40c Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x01\x02\x00v\x00b' @ 23309 : 1
+2024/06/02-11:55:26.377 40c Compacting 1@1 + 1@2 files
+2024/06/02-11:55:26.382 40c Generated table #11@1: 52 keys, 9713 bytes
+2024/06/02-11:55:26.382 40c Compacted 1@1 + 1@2 files => 9713 bytes
+2024/06/02-11:55:26.384 40c compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/06/02-11:55:26.385 40c Delete type=2 #10
+2024/06/02-11:55:26.385 40c Delete type=2 #8
+2024/06/02-11:55:26.385 40c Manual compaction at level-1 from '\x00\x02\x01\x02\x01\x02\x00v\x00b' @ 23309 : 1 .. (end); will stop at (end)

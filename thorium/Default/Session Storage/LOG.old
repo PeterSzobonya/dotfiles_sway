@@ -1,0 +1,11 @@
+2024/06/03-20:41:11.593 4 Reusing MANIFEST /home/peter/.config/thorium/Default/Session Storage/MANIFEST-000001
+2024/06/03-20:41:11.595 4 Recovering log #62
+2024/06/03-20:41:11.596 4 Level-0 table #65: started
+2024/06/03-20:41:11.600 4 Level-0 table #65: 24826 bytes OK
+2024/06/03-20:41:11.600 4 Recovering log #65
+2024/06/03-20:41:11.601 4 Reusing old log /home/peter/.config/thorium/Default/Session Storage/000065.log 
+2024/06/03-20:41:11.605 4 Delete type=0 #62
+2024/06/03-20:41:11.605 4 Delete type=2 #66
+2024/06/03-20:46:06.818 5 Level-0 table #67: started
+2024/06/03-20:46:06.821 5 Level-0 table #67: 34975 bytes OK
+2024/06/03-20:46:06.825 5 Delete type=0 #65

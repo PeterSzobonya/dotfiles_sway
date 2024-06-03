@@ -1,0 +1,6 @@
+2024-05-30 17:42:18.756 [info] mhutchie.git-graph 1.30.0 Running post uninstall script
+2024-05-30 17:42:18.993 [info] Finished running post uninstall script mhutchie.git-graph 1.30.0
+2024-05-30 17:42:19.000 [info] Deleted uninstalled extension from disk pinage404.git-extension-pack /home/peter/.vscode-oss/extensions/pinage404.git-extension-pack-2.0.0-universal
+2024-05-30 17:42:19.020 [info] Deleted uninstalled extension from disk eamodio.gitlens /home/peter/.vscode-oss/extensions/eamodio.gitlens-15.0.4-universal
+2024-05-30 17:42:19.021 [info] Deleted uninstalled extension from disk felipecaputo.git-project-manager /home/peter/.vscode-oss/extensions/felipecaputo.git-project-manager-1.8.2-universal
+2024-05-30 17:42:19.022 [info] Deleted uninstalled extension from disk mhutchie.git-graph /home/peter/.vscode-oss/extensions/mhutchie.git-graph-1.30.0-universal

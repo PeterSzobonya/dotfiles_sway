@@ -1,0 +1,34 @@
+first commit
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is up to date with 'origin/main'.
+#
+# Changes to be committed:
+#	modified:   README.md
+#	new file:   client/package-lock.json
+#	modified:   client/package.json
+#	new file:   client/src/components/Layout.jsx
+#	new file:   client/src/components/cards/JobCard.jsx
+#	new file:   client/src/components/navigation/NavigationBar.jsx
+#	modified:   client/src/main.jsx
+#	new file:   client/src/redux/reducers/auth/userReducer.js
+#	new file:   client/src/redux/reducers/auth/userReducerAPI.js
+#	new file:   client/src/redux/reducers/experience/experienceReducerApi.js
+#	new file:   client/src/redux/reducers/jobs/jobsReducerApi.js
+#	new file:   client/src/redux/store.js
+#	new file:   client/src/routing/ProfileRoute.jsx
+#	new file:   client/src/routing/ProtectedRoute.jsx
+#	new file:   client/src/styling/profile.css
+#	new file:   client/src/views/Home.jsx
+#	new file:   client/src/views/auth/LoginPage.jsx
+#	new file:   client/src/views/auth/RegisterPage.jsx
+#	new file:   client/src/views/both/JobDetails.jsx
+#	new file:   client/src/views/employee/Profile.jsx
+#	new file:   client/src/views/employer/CreateListing.jsx
+#	new file:   client/src/views/employer/Profile.jsx
+#	new file:   package-lock.json
+#	modified:   rest-api/jobhunter.sqlite
+#	modified:   rest-api/src/services/jobs/jobs.schema.ts
+#

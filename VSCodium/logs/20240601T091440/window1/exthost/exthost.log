@@ -1,0 +1,106 @@
+2024-06-01 09:14:42.051 [info] Extension host with pid 2144 started
+2024-06-01 09:14:42.051 [info] Skipping acquiring lock for /home/peter/.config/VSCodium/User/workspaceStorage/ce3eb1f3dd618668ce32481f621b35a5.
+2024-06-01 09:14:42.275 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-06-01 09:14:42.283 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascriptreact'
+2024-06-01 09:14:42.670 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-06-01 09:14:43.197 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-06-01 09:14:43.249 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-06-01 09:14:43.334 [info] Eager extensions activated
+2024-06-01 09:14:43.436 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-06-01 09:14:43.439 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-06-01 09:14:43.699 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-06-01 09:19:53.271 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2024-06-01 09:25:21.344 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2024-06-01 09:25:21.368 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2024-06-01 09:25:21.988 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+2024-06-01 09:26:13.003 [info] ExtensionService#_doActivateExtension vscode.simple-browser, startup: false, activationEvent: 'onOpenExternalUri:http'
+2024-06-01 09:29:34.820 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2024-06-01 09:30:05.677 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-06-01 09:32:35.589 [info] ExtensionService#_doActivateExtension dsznajder.es7-react-js-snippets, startup: false, activationEvent: 'onLanguage:typescript'
+2024-06-01 09:34:48.684 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2024-06-01 12:40:15.875 [info] ExtensionService#_doActivateExtension vscode.media-preview, startup: false, activationEvent: 'onCustomEditor:imagePreview.previewEditor'
+2024-06-01 19:30:18.332 [error] [vscode.typescript-language-features] provider FAILED
+2024-06-01 19:30:18.332 [error] Error: DisposableStore is missing...
+	at we._convertCompletionItem (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:123745)
+	at we.resolveCompletionItem (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:123086)
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-06-01 20:09:04.242 [error] [vscode.typescript-language-features] provider FAILED
+2024-06-01 20:09:04.242 [error] Error: DisposableStore is missing...
+	at we._convertCompletionItem (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:123745)
+	at we.resolveCompletionItem (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:123086)
+2024-06-01 20:52:03.732 [error] [vscode.typescript-language-features] provider FAILED
+2024-06-01 20:52:03.732 [error] Error: DisposableStore is missing...
+	at we._convertCompletionItem (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:123745)
+	at we.resolveCompletionItem (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:123086)
+2024-06-01 21:11:23.219 [info] Extension host terminating: renderer closed the MessagePort
+2024-06-01 21:11:23.503 [error] Canceled: Canceled
+	at new L (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:143:50578)
+	at c._remoteCall (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:7677)
+	at x.<computed>.z.charCodeAt.x.<computed> (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:4229)
+	at r._doExecuteCommand (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:224943)
+	at r.executeCommand (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:224268)
+	at _.registerCommand.description (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:223512)
+	at r._executeContributedCommand (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:225581)
+	at r._doExecuteCommand (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:224401)
+	at r.executeCommand (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:224268)
+	at Object.executeCommand (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:163:29252)
+	at a.O [as value] (/usr/share/vscodium/resources/app/extensions/git/dist/main.js:2:945087)
+	at o._deliver (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:838)
+	at o._deliverQueue (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:929)
+	at o.fire (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:1264)
+	at Object.p [as dispose] (/usr/share/vscodium/resources/app/extensions/git/dist/main.js:2:964171)
+	at /usr/share/vscodium/resources/app/extensions/git/dist/main.js:2:970209
+	at Array.forEach (<anonymous>)
+	at f.dispose (/usr/share/vscodium/resources/app/extensions/git/dist/main.js:2:970195)
+	at d.<anonymous> (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:5993)
+	at d.dispose (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:6090)
+	at d.<anonymous> (/usr/share/vscodium/resources/app/extensions/git/dist/main.js:2:947344)
+	at d.dispose (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:6090)
+	at a (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:758)
+	at f._deactivate (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:12988)
+	at /usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:10107
+	at Array.map (<anonymous>)
+	at f._deactivateAll (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:10094)
+	at f.terminate (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:10478)
+	at a.terminate (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:163:1908)
+	at t (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:11627)
+	at MessagePortMain.<anonymous> (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:7702)
+	at MessagePortMain.emit (node:events:517:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-06-01 21:11:23.504 [error] Canceled: Canceled
+	at new L (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:143:50578)
+	at c._remoteCall (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:7677)
+	at x.<computed>.z.charCodeAt.x.<computed> (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:4229)
+	at r._doExecuteCommand (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:224943)
+	at r.executeCommand (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:224268)
+	at _.registerCommand.description (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:223512)
+	at r._executeContributedCommand (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:225581)
+	at r._doExecuteCommand (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:224401)
+	at r.executeCommand (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:224268)
+	at Object.executeCommand (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:163:29252)
+	at set hasGitHubRepositories [as hasGitHubRepositories] (/usr/share/vscodium/resources/app/extensions/github/dist/extension.js:2:322918)
+	at /usr/share/vscodium/resources/app/extensions/github/dist/extension.js:2:323877
+	at a.value (/usr/share/vscodium/resources/app/extensions/git/dist/main.js:2:1050660)
+	at o._deliver (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:838)
+	at o._deliverQueue (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:929)
+	at o.fire (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:1264)
+	at Object.p [as dispose] (/usr/share/vscodium/resources/app/extensions/git/dist/main.js:2:964171)
+	at /usr/share/vscodium/resources/app/extensions/git/dist/main.js:2:970209
+	at Array.forEach (<anonymous>)
+	at f.dispose (/usr/share/vscodium/resources/app/extensions/git/dist/main.js:2:970195)
+	at d.<anonymous> (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:5993)
+	at d.dispose (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:6090)
+	at d.<anonymous> (/usr/share/vscodium/resources/app/extensions/git/dist/main.js:2:947344)
+	at d.dispose (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:6090)
+	at a (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:758)
+	at f._deactivate (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:12988)
+	at /usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:10107
+	at Array.map (<anonymous>)
+	at f._deactivateAll (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:10094)
+	at f.terminate (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:10478)
+	at a.terminate (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:163:1908)
+	at t (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:11627)
+	at MessagePortMain.<anonymous> (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:7702)
+	at MessagePortMain.emit (node:events:517:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-06-01 21:11:23.507 [info] Extension host with pid 2144 exiting with code 0

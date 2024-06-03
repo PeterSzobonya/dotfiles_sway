@@ -1,0 +1,25 @@
+2024-06-03 20:45:42.731 [info] Log level: Info
+2024-06-03 20:45:42.731 [info] Validating found git in: "git"
+2024-06-03 20:45:42.731 [info] Using git "2.45.1" from "git"
+2024-06-03 20:45:42.731 [info] > git rev-parse --show-toplevel [15ms]
+2024-06-03 20:45:42.732 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2024-06-03 20:45:42.746 [info] Open repository: /home/peter/Documents/test/bead2
+2024-06-03 20:45:42.763 [info] > git rev-parse --show-toplevel [6ms]
+2024-06-03 20:45:42.765 [info] > git config --get commit.template [10ms]
+2024-06-03 20:45:42.776 [info] > git rev-parse --show-toplevel [6ms]
+2024-06-03 20:45:42.781 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [7ms]
+2024-06-03 20:45:42.782 [info] > git rev-parse --show-toplevel [2ms]
+2024-06-03 20:45:42.806 [info] > git status -z -uall [18ms]
+2024-06-03 20:45:42.828 [info] > git merge-base refs/heads/main refs/remotes/origin/main [14ms]
+2024-06-03 20:45:42.835 [info] > git config --get commit.template [7ms]
+2024-06-03 20:45:42.836 [info] > git rev-list --count --left-right refs/heads/main...refs/remotes/origin/main [3ms]
+2024-06-03 20:45:42.864 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [17ms]
+2024-06-03 20:45:42.865 [info] > git diff --name-status -z --diff-filter=ADMR c8fb2423acd786bb9c6245af8fd7e4a4ef551142...refs/remotes/origin/main [23ms]
+2024-06-03 20:45:42.937 [info] > git status -z -uall [65ms]
+2024-06-03 20:45:43.278 [info] > git check-ignore -v -z --stdin [6ms]
+2024-06-03 20:45:44.551 [info] > git check-ignore -v -z --stdin [2ms]
+2024-06-03 20:45:45.781 [info] > git check-ignore -v -z --stdin [3ms]
+2024-06-03 20:45:47.146 [info] > git check-ignore -v -z --stdin [2ms]
+2024-06-03 20:45:49.914 [info] > git show --textconv :client/src/main.jsx [24ms]
+2024-06-03 20:45:49.915 [info] > git ls-files --stage -- /home/peter/Documents/test/bead2/client/src/main.jsx [6ms]
+2024-06-03 20:45:49.927 [info] > git cat-file -s fd2bcb5cf2bf0caa2f33066f8b22fa8d5f444044 [3ms]

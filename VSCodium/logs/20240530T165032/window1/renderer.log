@@ -1,0 +1,16 @@
+2024-05-30 16:50:33.893 [info] Started local extension host with pid 12085.
+2024-05-30 16:50:36.850 [info] [perf] Render performance baseline is 51ms
+2024-05-30 16:52:27.102 [error] Cancelled: Canceled
+    at ee.queryRawGalleryExtensions (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:792:28590)
+    at async ee.queryGalleryExtensions (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:792:24899)
+    at async ee.queryGalleryExtensions (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:792:26003)
+    at async J (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:792:23743)
+    at async ee.query (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:792:24088)
+    at async Q.queryGallery (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2483:18925)
+    at async Re.queryGallery (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2419:30196)
+    at async Re.query (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2419:20006)
+    at async vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2419:17894
+2024-05-30 16:53:43.239 [error] [Extension Host] Thu, 30 May 2024 14:53:43 GMT express deprecated req.param(name): Use req.params, req.body, or req.query instead at <anonymous>:null:null
+2024-05-30 16:54:35.396 [warning] No search provider registered for scheme: file, waiting
+2024-05-30 16:54:35.421 [info] Started local extension host with pid 13227.
+2024-05-30 16:54:36.075 [error] No registered selector for ID: ms-vscode.npm-command

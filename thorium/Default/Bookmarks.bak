@@ -1,0 +1,53 @@
+{
+   "checksum": "a5305bf1ea17d9278d4f9af2e36462a6",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13286899807000000",
+            "date_last_used": "13361553947389610",
+            "guid": "90778fe1-8652-444b-a47c-dfd091ca44ac",
+            "id": "5",
+            "name": "HiMovies.to | Watch Movies Online, Stream Tv Shows online Free",
+            "type": "url",
+            "url": "https://www5.himovies.to/home"
+         }, {
+            "date_added": "13286899933000000",
+            "date_last_used": "13355781552754700",
+            "guid": "f46d8656-ade9-4130-8008-4b8c0ecd6ec4",
+            "id": "6",
+            "name": "Kezdőlap - Netflix",
+            "type": "url",
+            "url": "https://www.netflix.com/browse"
+         } ],
+         "date_added": "13361387737886055",
+         "date_last_used": "0",
+         "date_modified": "13286899933000000",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13361387737886057",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13361387737886059",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CqoBCokBCIiBAhKCASAAkgF9CjQKDmNocm9tZV9zeW5jX2JtEgU1MSFibRoSCSvY0+qsGQYAESvY0+qsGQYAKct+1OqsGQYACkUKFmFubm90YXRpb25fY2hyb21lX3N5bmMSBTUxIWJkGhIJAIzB5awZBgARAIzB5awZBgApLevT6qwZBgAwgJiGrs61hgMSACoYcE1YVUdVak11WDVuK3ZiM29sODBYdz09SAMSwwEIAhK+AQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRJmWjpBRHF0QVp4bmNwVHFyTkl5b293NWQ3U1FwS1BqN3JBZi90OEF1aS9odkZORXNEcjlCSnpURWViS2tNVWU0b3hZNG5TTU5yZmlTQ2FyN015Tk43NDRYMTQ3L3hzVGIvc2haQT09GAAgACgAMIWP39jjsIYDOABAAEocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAAAS7AEIBhLnAQocZ1JWb0dySk93K3gzSkF5MytmdHhBQW9vZHFFPRJmWjpBRHF0QVp5akpiSWFDYzZXRWxTejZ3VkR2bGxkQWc0WEwzOUlMVkJGd1k0cm83dlUxZzhMdC9vNWhZcTNKVGNsOWxxL0cybTVmRTdNSXJqNUJ0VnhLMll0YTFFL0JIWVJoQT09GAAgAigCMO28x9zjsIYDOM+//N+3MUCs1byA/DFKHFQrelFQSTl6WHp6c2N5Y1Y5N1kwTjJHZWsvUT1aHyId7VdJOGNVUDJ5OUVWV21zSGw2ZGlKNmFRWXJnMD1lQmPjwxKrAQgBEqYBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9Ek5aOkFEcXRBWndGcWJSb3hpdzJhY3VrRkV0ZmZTelJFcXl0bTFERk5WeU1OS2pPZ3dkVnRzKytqK1dkdlJwWDQza25EMDJJWUVvS0hPb20YACAAKAAwhY/f2OOwhgM4AEAAShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAABLsAQgFEucBChxFbE5Rcy9xdDA5Q1phK3lZSENLNy8rMTY0enc9EmZaOkFEcXRBWnlqSmJJYUNjNldFbFN6NndWRHZsbGRWWDJZL1NHdkVLOXFCVXpxNlFaNDVYVlBQSFA3MmJzS0tpTjhLS2ZUcS9GemNyek9iQkRoaERNMm50SllUOEtuZVJpUEFRPT0YACAEKAQw5NGz3ve0hgM4zr/837cxQI20ycT8MUocR2pWR1pzclQ4U1pZMXF1SXozUmhnYjc5NWxZPVofIh3aU05sQUxtM3JxRmV4UTBNTXJGLzl1Y2ZrN2hvPWUv9n8OEsMBCAMSvgEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SZlo6QURxdEFaeWdRcHJBb2o3VmlxbTNjazlVTGgxbm9ZZ1REVXVYRWU1ZXd4bnZZbDI4bkp6RnpmMmV4UFBkd3hJZUMzOW45L2t0WUNzRWdsNE9PK21QM3hMaFdOYzhhaGI4enc9PRgAIAAoADCFj9/Y47CGAzgAQABKHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAMAE4AA==",
+   "version": 1
+}

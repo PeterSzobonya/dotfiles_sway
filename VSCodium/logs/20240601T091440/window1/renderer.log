@@ -1,0 +1,17 @@
+2024-06-01 09:14:41.698 [info] Started local extension host with pid 2144.
+2024-06-01 09:14:44.812 [info] [perf] Render performance baseline is 90ms
+2024-06-01 19:44:20.039 [error] TreeError [FileExplorer] Data tree node not found: ExplorerItem: auth: Error: TreeError [FileExplorer] Data tree node not found: ExplorerItem: auth
+    at ne.getDataNode (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:627:23692)
+    at ne._updateChildren (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:627:20239)
+    at async ne.updateChildren (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:627:19932)
+    at async vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1645:21629
+    at async Promise.all (index 0)
+    at async s.onDidRunOperation (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1645:21480)
+2024-06-01 21:11:11.464 [error] Unable to read file '/home/peter/Documents/elte/react-bead-jubhunter-starter-kit/client/src/redux/reducers/experience/experienceReducerApi.js' (Error: File not modified since): Error: Unable to read file '/home/peter/Documents/elte/react-bead-jubhunter-starter-kit/client/src/redux/reducers/experience/experienceReducerApi.js' (Error: File not modified since)
+    at n.restoreReadError (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:658:26391)
+    at n.doReadFileStream (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:658:26178)
+    at async a.doRead (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2207:57134)
+    at async a.readStream (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2207:56809)
+    at async A.resolveFromFile (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2196:20591)
+    at async A.resolve (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2196:18663)
+    at async vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2207:50965

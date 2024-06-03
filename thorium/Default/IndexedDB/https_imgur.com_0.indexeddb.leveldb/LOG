@@ -1,0 +1,10 @@
+2024/05/28-21:28:31.539 760e Creating DB /home/peter/.config/thorium/Default/IndexedDB/https_imgur.com_0.indexeddb.leveldb since it was missing.
+2024/05/28-21:28:31.546 760e Reusing MANIFEST /home/peter/.config/thorium/Default/IndexedDB/https_imgur.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/05/28-21:28:31.595 7616 Level-0 table #5: started
+2024/05/28-21:28:31.598 7616 Level-0 table #5: 758 bytes OK
+2024/05/28-21:28:31.601 7616 Delete type=0 #3
+2024/05/28-21:28:31.601 760e Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/05/28-21:28:48.471 760f Level-0 table #7: started
+2024/05/28-21:28:48.474 760f Level-0 table #7: 3399 bytes OK
+2024/05/28-21:28:48.476 760f Delete type=0 #4
+2024/05/28-21:28:48.477 760f Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)

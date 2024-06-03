@@ -1,0 +1,9 @@
+2024/06/02-16:07:50.531 351 Reusing MANIFEST /home/peter/.config/thorium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/02-16:07:50.532 351 Recovering log #16
+2024/06/02-16:07:50.534 351 Reusing old log /home/peter/.config/thorium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000016.log 
+2024/06/02-16:07:52.681 351 Compacting 1@1 + 1@2 files
+2024/06/02-16:07:52.688 351 Generated table #19@1: 361 keys, 46085 bytes
+2024/06/02-16:07:52.688 351 Compacted 1@1 + 1@2 files => 46085 bytes
+2024/06/02-16:07:52.690 351 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/06/02-16:07:52.690 351 Delete type=2 #15
+2024/06/02-16:07:52.690 351 Delete type=2 #17

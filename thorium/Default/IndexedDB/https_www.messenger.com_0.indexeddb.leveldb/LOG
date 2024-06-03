@@ -1,0 +1,7 @@
+2024/06/01-13:05:15.648 423 Reusing MANIFEST /home/peter/.config/thorium/Default/IndexedDB/https_www.messenger.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/01-13:05:15.648 423 Recovering log #3
+2024/06/01-13:05:15.668 423 Reusing old log /home/peter/.config/thorium/Default/IndexedDB/https_www.messenger.com_0.indexeddb.leveldb/000003.log 
+2024/06/01-13:23:41.782 424 Level-0 table #5: started
+2024/06/01-13:23:41.816 424 Level-0 table #5: 1208487 bytes OK
+2024/06/01-13:23:41.820 424 Delete type=0 #3
+2024/06/01-13:23:41.820 424 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
