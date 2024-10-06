@@ -1,3 +1,15 @@
-2024/06/02-18:10:18.099 34d Reusing MANIFEST /home/peter/.config/thorium/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/06/02-18:10:18.100 34d Recovering log #4
-2024/06/02-18:10:18.100 34d Reusing old log /home/peter/.config/thorium/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/000004.log 
+2024/10/06-18:57:26.874 831 Reusing MANIFEST /home/peter/.config/thorium/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/10/06-18:57:26.874 831 Recovering log #29
+2024/10/06-18:57:26.874 831 Reusing old log /home/peter/.config/thorium/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/000029.log 
+2024/10/06-18:58:02.691 832 Level-0 table #34: started
+2024/10/06-18:58:02.693 832 Level-0 table #34: 209 bytes OK
+2024/10/06-18:58:02.696 832 Delete type=0 #29
+2024/10/06-18:58:02.697 832 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/10/06-18:58:02.697 832 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 135580 : 1
+2024/10/06-18:58:02.698 832 Compacting 1@1 + 1@2 files
+2024/10/06-18:58:02.741 832 Generated table #35@1: 15352 keys, 1612494 bytes
+2024/10/06-18:58:02.741 832 Compacted 1@1 + 1@2 files => 1612494 bytes
+2024/10/06-18:58:02.744 832 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/10/06-18:58:02.745 832 Delete type=2 #31
+2024/10/06-18:58:02.745 832 Delete type=2 #34
+2024/10/06-18:58:02.746 832 Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 135580 : 1 .. (end); will stop at (end)

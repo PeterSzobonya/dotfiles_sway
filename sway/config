@@ -29,10 +29,11 @@ output * bg /usr/share/backgrounds/sway/background.jpg fill
 ### Idle configuration
 #
 #
-# exec swayidle -w \
-#          timeout 300 'swaylock -f -c 000000' \
-#          timeout 600 'swaymsg "output * power off"' resume 'swaymsg "output * power on"' \
-#          before-sleep 'swaylock -f -c 000000'
+ exec swayidle -w \
+          timeout 300 'swaylock -f -c 383838' \
+          timeout 600 'swaymsg "output * power off"' resume 'swaymsg "output * power on"' \
+          before-sleep 'swaylock -f -c 383838'
+exec sway-audio-idle-inhibit
 # This will lock your screen after 300 seconds of inactivity, then turn off
 # your displays after another 300 seconds, and turn your screens back on when
 # resumed. It will also lock your screen before your computer goes to sleep.
@@ -53,7 +54,7 @@ output * bg /usr/share/backgrounds/sway/background.jpg fill
     bindsym $mod+Shift+q kill
 
     # Start your launcher
-    bindsym $mod+d exec wofi --show run 
+    bindsym $mod+d exec wofi --show drun 
 
     # Drag floating windows by holding down $mod and left mouse button.
     # Resize them with right mouse button + $mod.
@@ -77,7 +78,7 @@ output * bg /usr/share/backgrounds/sway/background.jpg fill
     bindsym XF86AudioLowerVolume exec pactl set-sink-volume @DEFAULT_SINK@ -5%
 
     # Microphone
-    bindsym XF86AudioMicMute exec pactl set-source-mute 51 toggle
+    bindsym XF86AudioMicMute exec pactl set-source-mute @DEFAULT_SOURCE@ toggle
 
     # Brightness
     bindsym XF86MonBrightnessUp exec brightnessctl set 443+
@@ -88,6 +89,10 @@ output * bg /usr/share/backgrounds/sway/background.jpg fill
 
     # Bluetooth
     bindsym $mod+ctrl+b exec blueberry
+
+    # Lock screen
+    bindsym $mod+ctrl+l exec swaylock -c 383838
+    bindswitch --reload --locked lid:on exec swaylock -c 383838    
 
     # Screenshot
 	# copy to clipboard area

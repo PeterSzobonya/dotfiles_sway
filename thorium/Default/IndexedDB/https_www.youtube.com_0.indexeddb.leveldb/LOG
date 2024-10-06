@@ -1,9 +1,12 @@
-2024/06/02-16:07:50.531 351 Reusing MANIFEST /home/peter/.config/thorium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/06/02-16:07:50.532 351 Recovering log #16
-2024/06/02-16:07:50.534 351 Reusing old log /home/peter/.config/thorium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000016.log 
-2024/06/02-16:07:52.681 351 Compacting 1@1 + 1@2 files
-2024/06/02-16:07:52.688 351 Generated table #19@1: 361 keys, 46085 bytes
-2024/06/02-16:07:52.688 351 Compacted 1@1 + 1@2 files => 46085 bytes
-2024/06/02-16:07:52.690 351 compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/06/02-16:07:52.690 351 Delete type=2 #15
-2024/06/02-16:07:52.690 351 Delete type=2 #17
+2024/10/06-19:15:55.715 831 Reusing MANIFEST /home/peter/.config/thorium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/10/06-19:15:55.716 831 Recovering log #99
+2024/10/06-19:15:55.724 831 Reusing old log /home/peter/.config/thorium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000099.log 
+2024/10/06-19:39:00.642 832 Level-0 table #104: started
+2024/10/06-19:39:00.662 832 Level-0 table #104: 1352954 bytes OK
+2024/10/06-19:39:00.667 832 Delete type=0 #99
+2024/10/06-19:41:53.173 832 Compacting 1@1 + 1@2 files
+2024/10/06-19:41:53.187 832 Generated table #105@1: 431 keys, 49918 bytes
+2024/10/06-19:41:53.187 832 Compacted 1@1 + 1@2 files => 49918 bytes
+2024/10/06-19:41:53.190 832 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/10/06-19:41:53.191 832 Delete type=2 #104
+2024/10/06-19:41:53.191 832 Delete type=2 #101

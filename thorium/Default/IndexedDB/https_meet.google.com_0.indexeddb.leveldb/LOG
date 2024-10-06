@@ -1,0 +1,6 @@
+2024/08/12-14:20:47.041 357 Creating DB /home/peter/.config/thorium/Default/IndexedDB/https_meet.google.com_0.indexeddb.leveldb since it was missing.
+2024/08/12-14:20:47.047 357 Reusing MANIFEST /home/peter/.config/thorium/Default/IndexedDB/https_meet.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/08/12-14:21:19.172 358 Level-0 table #5: started
+2024/08/12-14:21:19.175 358 Level-0 table #5: 2876 bytes OK
+2024/08/12-14:21:19.178 358 Delete type=0 #3
+2024/08/12-14:21:19.178 358 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

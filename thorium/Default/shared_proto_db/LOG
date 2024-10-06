@@ -1,3 +1,12 @@
-2024/06/03-20:50:52.683 77b Reusing MANIFEST /home/peter/.config/thorium/Default/shared_proto_db/MANIFEST-000001
-2024/06/03-20:50:52.684 77b Recovering log #3
-2024/06/03-20:50:52.687 77b Reusing old log /home/peter/.config/thorium/Default/shared_proto_db/000003.log 
+2024/10/05-17:25:51.813 834 Reusing MANIFEST /home/peter/.config/thorium/Default/shared_proto_db/MANIFEST-000001
+2024/10/05-17:25:51.814 834 Recovering log #29
+2024/10/05-17:25:51.817 834 Reusing old log /home/peter/.config/thorium/Default/shared_proto_db/000029.log 
+2024/10/05-17:25:54.068 83b Level-0 table #35: started
+2024/10/05-17:25:54.074 83b Level-0 table #35: 193006 bytes OK
+2024/10/05-17:25:54.077 83b Delete type=0 #29
+2024/10/06-19:41:58.978 832 Compacting 1@1 + 1@2 files
+2024/10/06-19:41:58.987 832 Generated table #36@1: 141 keys, 14127 bytes
+2024/10/06-19:41:58.987 832 Compacted 1@1 + 1@2 files => 14127 bytes
+2024/10/06-19:41:58.990 832 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/10/06-19:41:58.990 832 Delete type=2 #32
+2024/10/06-19:41:58.990 832 Delete type=2 #35

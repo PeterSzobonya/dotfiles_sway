@@ -1,7 +1,15 @@
-2024/06/01-13:05:15.648 423 Reusing MANIFEST /home/peter/.config/thorium/Default/IndexedDB/https_www.messenger.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/06/01-13:05:15.648 423 Recovering log #3
-2024/06/01-13:05:15.668 423 Reusing old log /home/peter/.config/thorium/Default/IndexedDB/https_www.messenger.com_0.indexeddb.leveldb/000003.log 
-2024/06/01-13:23:41.782 424 Level-0 table #5: started
-2024/06/01-13:23:41.816 424 Level-0 table #5: 1208487 bytes OK
-2024/06/01-13:23:41.820 424 Delete type=0 #3
-2024/06/01-13:23:41.820 424 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/08/13-09:58:21.738 439 Reusing MANIFEST /home/peter/.config/thorium/Default/IndexedDB/https_www.messenger.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/08/13-09:58:21.739 439 Recovering log #12
+2024/08/13-09:58:21.775 439 Reusing old log /home/peter/.config/thorium/Default/IndexedDB/https_www.messenger.com_0.indexeddb.leveldb/000012.log 
+2024/08/13-13:59:37.149 439 Level-0 table #17: started
+2024/08/13-13:59:37.179 439 Level-0 table #17: 895416 bytes OK
+2024/08/13-13:59:37.184 439 Delete type=0 #12
+2024/08/13-13:59:37.184 439 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/08/13-13:59:37.184 439 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x0a\x01!\x04\x01\x01\x14\x001\x000\x000\x000\x000\x006\x007\x009\x002\x000\x000\x000\x005\x005\x007\x00@\x00m\x00s\x00g\x00r\x00\x03\x00\x00\x00\x00\x00\x80g@' @ 123196 : 1
+2024/08/13-13:59:37.184 439 Compacting 1@1 + 1@2 files
+2024/08/13-13:59:37.220 439 Generated table #18@1: 23720 keys, 1149651 bytes
+2024/08/13-13:59:37.220 439 Compacted 1@1 + 1@2 files => 1149651 bytes
+2024/08/13-13:59:37.223 439 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/08/13-13:59:37.223 439 Delete type=2 #14
+2024/08/13-13:59:37.223 439 Delete type=2 #17
+2024/08/13-13:59:37.224 439 Manual compaction at level-1 from '\x00\x0a\x01!\x04\x01\x01\x14\x001\x000\x000\x000\x000\x006\x007\x009\x002\x000\x000\x000\x005\x005\x007\x00@\x00m\x00s\x00g\x00r\x00\x03\x00\x00\x00\x00\x00\x80g@' @ 123196 : 1 .. (end); will stop at (end)

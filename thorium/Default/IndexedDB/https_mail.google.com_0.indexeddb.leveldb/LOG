@@ -1,9 +1,6 @@
-2024/05/30-20:37:20.216 345 Reusing MANIFEST /home/peter/.config/thorium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/05/30-20:37:20.217 345 Recovering log #3
-2024/05/30-20:37:20.228 345 Reusing old log /home/peter/.config/thorium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000003.log 
-2024/05/30-20:37:35.363 346 Level-0 table #5: started
-2024/05/30-20:37:35.398 346 Level-0 table #5: 2836428 bytes OK
-2024/05/30-20:37:35.403 346 Delete type=0 #3
-2024/05/30-20:40:13.811 349 Level-0 table #7: started
-2024/05/30-20:40:13.843 349 Level-0 table #7: 2868715 bytes OK
-2024/05/30-20:40:13.847 349 Delete type=0 #4
+2024/08/12-20:45:15.227 4ac4 Reusing MANIFEST /home/peter/.config/thorium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/08/12-20:45:15.228 4ac4 Recovering log #10
+2024/08/12-20:45:15.234 4ac4 Reusing old log /home/peter/.config/thorium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000010.log 
+2024/08/12-20:45:28.449 4ac5 Level-0 table #15: started
+2024/08/12-20:45:28.481 4ac5 Level-0 table #15: 2856382 bytes OK
+2024/08/12-20:45:28.485 4ac5 Delete type=0 #10

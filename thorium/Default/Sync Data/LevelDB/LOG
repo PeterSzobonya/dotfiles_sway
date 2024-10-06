@@ -1,3 +1,15 @@
-2024/06/03-20:50:52.525 777 Reusing MANIFEST /home/peter/.config/thorium/Default/Sync Data/LevelDB/MANIFEST-000001
-2024/06/03-20:50:52.526 777 Recovering log #85
-2024/06/03-20:50:52.528 777 Reusing old log /home/peter/.config/thorium/Default/Sync Data/LevelDB/000085.log 
+2024/10/05-17:25:51.672 831 Reusing MANIFEST /home/peter/.config/thorium/Default/Sync Data/LevelDB/MANIFEST-000001
+2024/10/05-17:25:51.673 831 Recovering log #192
+2024/10/05-17:25:51.674 831 Reusing old log /home/peter/.config/thorium/Default/Sync Data/LevelDB/000192.log 
+2024/10/06-19:13:15.610 831 Level-0 table #196: started
+2024/10/06-19:13:15.614 831 Level-0 table #196: 134331 bytes OK
+2024/10/06-19:13:15.617 831 Delete type=0 #192
+2024/10/06-19:13:15.617 831 Compacting 4@0 + 1@1 files
+2024/10/06-19:13:15.623 831 Generated table #197@0: 345 keys, 45619 bytes
+2024/10/06-19:13:15.623 831 Compacted 4@0 + 1@1 files => 45619 bytes
+2024/10/06-19:13:15.626 831 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/10/06-19:13:15.627 831 Delete type=2 #188
+2024/10/06-19:13:15.627 831 Delete type=2 #185
+2024/10/06-19:13:15.627 831 Delete type=2 #191
+2024/10/06-19:13:15.627 831 Delete type=2 #196
+2024/10/06-19:13:15.627 831 Delete type=2 #193

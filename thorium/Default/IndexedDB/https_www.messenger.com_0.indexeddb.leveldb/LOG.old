@@ -1,3 +1,12 @@
-2024/05/30-10:14:48.413 402 Reusing MANIFEST /home/peter/.config/thorium/Default/IndexedDB/https_www.messenger.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/05/30-10:14:48.413 402 Recovering log #3
-2024/05/30-10:14:48.430 402 Reusing old log /home/peter/.config/thorium/Default/IndexedDB/https_www.messenger.com_0.indexeddb.leveldb/000003.log 
+2024/08/12-20:52:05.359 4ac4 Reusing MANIFEST /home/peter/.config/thorium/Default/IndexedDB/https_www.messenger.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/08/12-20:52:05.359 4ac4 Recovering log #7
+2024/08/12-20:52:05.399 4ac4 Reusing old log /home/peter/.config/thorium/Default/IndexedDB/https_www.messenger.com_0.indexeddb.leveldb/000007.log 
+2024/08/12-21:44:05.317 4ac5 Level-0 table #13: started
+2024/08/12-21:44:05.343 4ac5 Level-0 table #13: 1713497 bytes OK
+2024/08/12-21:44:05.346 4ac5 Delete type=0 #7
+2024/08/12-21:44:07.003 4ac5 Compacting 1@1 + 1@2 files
+2024/08/12-21:44:07.069 4ac5 Generated table #14@1: 20396 keys, 1022024 bytes
+2024/08/12-21:44:07.069 4ac5 Compacted 1@1 + 1@2 files => 1022024 bytes
+2024/08/12-21:44:07.072 4ac5 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/08/12-21:44:07.072 4ac5 Delete type=2 #13
+2024/08/12-21:44:07.072 4ac5 Delete type=2 #10

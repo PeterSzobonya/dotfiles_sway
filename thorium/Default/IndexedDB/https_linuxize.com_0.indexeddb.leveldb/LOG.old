@@ -1,2 +1,7 @@
-2024/05/30-10:21:09.850 5b6 Creating DB /home/peter/.config/thorium/Default/IndexedDB/https_linuxize.com_0.indexeddb.leveldb since it was missing.
-2024/05/30-10:21:09.858 5b6 Reusing MANIFEST /home/peter/.config/thorium/Default/IndexedDB/https_linuxize.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/05/30-11:01:04.519 3b8 Reusing MANIFEST /home/peter/.config/thorium/Default/IndexedDB/https_linuxize.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/05/30-11:01:04.519 3b8 Recovering log #3
+2024/05/30-11:01:04.519 3b8 Reusing old log /home/peter/.config/thorium/Default/IndexedDB/https_linuxize.com_0.indexeddb.leveldb/000003.log 
+2024/05/30-11:01:36.909 3b9 Level-0 table #5: started
+2024/05/30-11:01:36.913 3b9 Level-0 table #5: 7603 bytes OK
+2024/05/30-11:01:36.916 3b9 Delete type=0 #3
+2024/05/30-11:01:36.916 3b9 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

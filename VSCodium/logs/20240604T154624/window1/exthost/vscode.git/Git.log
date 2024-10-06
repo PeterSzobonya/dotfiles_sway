@@ -1,0 +1,23 @@
+2024-06-04 15:46:27.106 [info] Log level: Info
+2024-06-04 15:46:27.106 [info] Validating found git in: "git"
+2024-06-04 15:46:27.141 [info] Using git "2.45.1" from "git"
+2024-06-04 15:46:27.182 [info] > git rev-parse --show-toplevel [12ms]
+2024-06-04 15:46:27.724 [info] > git rev-parse --git-dir --git-common-dir [10ms]
+2024-06-04 15:46:27.747 [info] Open repository: /home/peter/Documents/test/bead2
+2024-06-04 15:46:27.772 [info] > git rev-parse --show-toplevel [4ms]
+2024-06-04 15:46:27.773 [info] > git config --get commit.template [12ms]
+2024-06-04 15:46:27.793 [info] > git rev-parse --show-toplevel [11ms]
+2024-06-04 15:46:27.802 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [12ms]
+2024-06-04 15:46:27.803 [info] > git rev-parse --show-toplevel [3ms]
+2024-06-04 15:46:27.822 [info] > git rev-parse --show-toplevel [10ms]
+2024-06-04 15:46:27.916 [info] > git status -z -uall [96ms]
+2024-06-04 15:46:27.944 [info] > git merge-base refs/heads/main refs/remotes/origin/main [16ms]
+2024-06-04 15:46:27.957 [info] > git rev-list --count --left-right refs/heads/main...refs/remotes/origin/main [4ms]
+2024-06-04 15:46:27.967 [info] > git config --get commit.template [24ms]
+2024-06-04 15:46:27.974 [info] > git diff --name-status -z --diff-filter=ADMR c8fb2423acd786bb9c6245af8fd7e4a4ef551142...refs/remotes/origin/main [8ms]
+2024-06-04 15:46:27.978 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2024-06-04 15:46:28.035 [info] > git status -z -uall [44ms]
+2024-06-04 15:46:28.305 [info] > git show --textconv :client/src/main.jsx [9ms]
+2024-06-04 15:46:28.307 [info] > git ls-files --stage -- /home/peter/Documents/test/bead2/client/src/main.jsx [3ms]
+2024-06-04 15:46:28.317 [info] > git cat-file -s fd2bcb5cf2bf0caa2f33066f8b22fa8d5f444044 [3ms]
+2024-06-04 15:46:28.489 [info] > git check-ignore -v -z --stdin [2ms]

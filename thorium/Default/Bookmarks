@@ -1,10 +1,10 @@
 {
-   "checksum": "a5305bf1ea17d9278d4f9af2e36462a6",
+   "checksum": "1987cf237b13db0a4e75e52f8653d4b5",
    "roots": {
       "bookmark_bar": {
          "children": [ {
             "date_added": "13286899807000000",
-            "date_last_used": "13361553947389610",
+            "date_last_used": "13372253407241303",
             "guid": "90778fe1-8652-444b-a47c-dfd091ca44ac",
             "id": "5",
             "name": "HiMovies.to | Watch Movies Online, Stream Tv Shows online Free",
@@ -12,26 +12,59 @@
             "url": "https://www5.himovies.to/home"
          }, {
             "date_added": "13286899933000000",
-            "date_last_used": "13361787542780964",
+            "date_last_used": "13372160092798814",
             "guid": "f46d8656-ade9-4130-8008-4b8c0ecd6ec4",
             "id": "6",
             "name": "Kezdőlap - Netflix",
             "type": "url",
             "url": "https://www.netflix.com/browse"
+         }, {
+            "date_added": "13367942878268697",
+            "date_last_used": "13372324220833419",
+            "guid": "8a743b9d-5396-4e97-bc7b-bb1bb4bbb007",
+            "id": "10",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Braflix - Watch TV Shows Online, Watch Movies Online",
+            "type": "url",
+            "url": "https://www.braflix.ru/"
          } ],
          "date_added": "13361387737886055",
          "date_last_used": "0",
-         "date_modified": "13286899933000000",
+         "date_modified": "13367964425811373",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Bookmarks bar",
          "type": "folder"
       },
       "other": {
-         "children": [  ],
+         "children": [ {
+            "date_added": "13367419502271910",
+            "date_last_used": "0",
+            "guid": "a34d1b69-f5ad-4e98-808d-89c34637f2af",
+            "id": "8",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Új lap",
+            "type": "url",
+            "url": "chrome://newtab/"
+         }, {
+            "date_added": "13367964425811373",
+            "date_last_used": "0",
+            "guid": "a4cf9345-cf89-4143-877a-84348fd9f782",
+            "id": "12",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Bézs kárpitozott ágyneműtartós franciaágy 140 x 200 cm DREUX | Beliani.hu",
+            "type": "url",
+            "url": "https://www.beliani.hu/bezs-karpitozott-agynemutartos-franciaagy-140-x-200-cm-dreux.html"
+         } ],
          "date_added": "13361387737886057",
          "date_last_used": "0",
-         "date_modified": "0",
+         "date_modified": "13367964433315043",
          "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
          "id": "2",
          "name": "Other bookmarks",
@@ -48,6 +81,6 @@
          "type": "folder"
       }
    },
-   "sync_metadata": "CqoBCokBCIiBAhKCASAAkgF9CjQKDmNocm9tZV9zeW5jX2JtEgU1MSFibRoSCWmC4qPmGQYAEWmC4qPmGQYAKZIQ46PmGQYACkUKFmFubm90YXRpb25fY2hyb21lX3N5bmMSBTUxIWJkGhIJAIjwnuYZBgARAIjwnuYZBgApCpbio+YZBgAwgJDC9+m8hgMSACoYcE1YVUdVak11WDVuK3ZiM29sODBYdz09SAMSwwEIAxK+AQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRJmWjpBRHF0QVp5Z1FwckFvajdWaXFtM2NrOVVMaDFub1lnVERVdVhFZTVld3hudllsMjhuSnpGemYyZXhQUGR3eEllQzM5bjkva3RZQ3NFZ2w0T08rbVAzeExoV05jOGFoYjh6dz09GAAgACgAMIWP39jjsIYDOABAAEoceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAAAS7AEIBRLnAQocRWxOUXMvcXQwOUNaYSt5WUhDSzcvKzE2NHp3PRJmWjpBRHF0QVp5akpiSWFDYzZXRWxTejZ3VkR2bGxkVlgyWS9TR3ZFSzlxQlV6cTZRWjQ1WFZQUEhQNzJic0tLaU44S0tmVHEvRnpjcnpPYkJEaGhETTJudEpZVDhLbmVSaVBBUT09GAAgBCgEMOTRs973tIYDOM6//N+3MUCNtMnE/DFKHEdqVkdac3JUOFNaWTFxdUl6M1JoZ2I3OTVsWT1aHyId2lNObEFMbTNycUZleFEwTU1yRi85dWNmazdobz1lL/Z/DhKrAQgBEqYBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9Ek5aOkFEcXRBWndGcWJSb3hpdzJhY3VrRkV0ZmZTelJFcXl0bTFERk5WeU1OS2pPZ3dkVnRzKytqK1dkdlJwWDQza25EMDJJWUVvS0hPb20YACAAKAAwhY/f2OOwhgM4AEAAShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAABLsAQgGEucBChxnUlZvR3JKT3creDNKQXkzK2Z0eEFBb29kcUU9EmZaOkFEcXRBWnlqSmJJYUNjNldFbFN6NndWRHZsbGRBZzRYTDM5SUxWQkZ3WTRybzd2VTFnOEx0L281aFlxM0pUY2w5bHEvRzJtNWZFN01Jcmo1QnRWeEsyWXRhMUUvQkhZUmhBPT0YACAEKAQwtaqEg7W8hgM4z7/837cxQOzXjb/9MUocck5xZi9JQWVuekNCdjdrSzZ6WjJ2SWdyYWFBPVofIh3tV0k4Y1VQMnk5RVZXbXNIbDZkaUo2YVFZcmcwPWVCY+PDEsMBCAISvgEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SZlo6QURxdEFaeG5jcFRxck5JeW9vdzVkN1NRcEtQajdyQWYvdDhBdWkvaHZGTkVzRHI5Qkp6VEVlYktrTVVlNG94WTRuU01OcmZpU0NhcjdNeU5ONzQ0WDE0Ny94c1RiL3NoWkE9PRgAIAAoADCFj9/Y47CGAzgAQABKHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAMAE4AA==",
+   "sync_metadata": "CqoBCokBCIiBAhKCASAAkgF9CjQKDmNocm9tZV9zeW5jX2JtEgU1MSFibRoSCbEi/494IwYAEbEi/494IwYAKUTx/494IwYACkUKFmFubm90YXRpb25fY2hyb21lX3N5bmMSBTUxIWJkGhIJANwVingjBgARANwVingjBgApePH/j3gjBgAwgLjX0IjviAMSACoYcE1YVUdVak11WDVuK3ZiM29sODBYdz09SAMS6wEIDBLmAQoceHNUQmc3NUVzcldKSDl6OWl5ZDAwL3lINUpZPRJmWjpBRHF0QVp5akpiSWFDYzZXRWxTejZ3VkR2bGxkengyOHVtN2JNK2dCUGN3Yzc5Ylo0UkFxSEJZcGZ0NGY2UGpqOUM0K1hmNVVCd2dBR20rbWh0SDF2SFIwVFZJMnFFTDlxdz09GAAgAigCMO2S5taX8IcDONPsu8CUMkDHobzAlDJKHGNwSG9RK1pNQklpd0VEZXJ6NnBlY2x5OE1kST1aHiIcaHAzMGh6dnZWbGtEdE8ybTE3TCszNkRPQ1lZPWXXTXeLEuwBCAoS5wEKHHJZYXNiTm1BYVdBRy8yY3JYU3BFVzRWa1Q5WT0SZlo6QURxdEFaeWpKYklhQ2M2V0VsU3o2d1ZEdmxsZEVqQkM5MHN6aHlzTjZnQ045bGhtUnZWVExYSytxTDdXQWdpZVFDMGh6VnRKYzRDQW5GVnZBbkhvWjVmSVRUemh4VS9ra2c9PRgAIAQoBDCBsey+x++HAzi82Ji2lDJAg6yatpQyShxGRk9PMDE1Sng4d2tKTGpqRWhXamkrQXZLTWs9Wh8iHfY3MEVaZWptd2JoZVFqOHVScXYwcDZ2blVCNzA9Zb28438SqwEIARKmAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRJOWjpBRHF0QVp3RnFiUm94aXcyYWN1a0ZFdGZmU3pSRXF5dG0xREZOVnlNTktqT2d3ZFZ0cysraitXZHZScFg0M2tuRDAySVlFb0tIT29tGAAgACgAMIWP39jjsIYDOABAAEocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAAASwwEIAhK+AQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRJmWjpBRHF0QVp4bmNwVHFyTkl5b293NWQ3U1FwS1BqN3JBZi90OEF1aS9odkZORXNEcjlCSnpURWViS2tNVWU0b3hZNG5TTU5yZmlTQ2FyN015Tk43NDRYMTQ3L3hzVGIvc2haQT09GAAgACgAMIWP39jjsIYDOABAAEocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAAAS6wEICBLmAQocYnJSMHBHaWxpRmdTOVgrK1lidVY4b0xHVWJJPRJmWjpBRHF0QVp5akpiSWFDYzZXRWxTejZ3VkR2bGxkUG5pNHFFalh1MG13cjBZWDUvM3NDdUl6QWdQVGZRK3h1YVpiM084dDNjd0lybzl2MHUzOURnWDUvWnU5TktLK0V6ZGJoQT09GAAgACgAMLbkyNSp4IcDOMCt0LySMkDArdC8kjJKHEVHQ1JUd2d2dzU4R0Q5QnpQSklCSjRpNjJqaz1aHiIcMkJidFFuaDRuQnp3Y3BxdnNiZWIyU05lMVJ3PWUAAAAAEuwBCAYS5wEKHGdSVm9HckpPdyt4M0pBeTMrZnR4QUFvb2RxRT0SZlo6QURxdEFaeWpKYklhQ2M2V0VsU3o2d1ZEdmxsZEFnNFhMMzlJTFZCRndZNHJvN3ZVMWc4THQvbzVoWXEzSlRjbDlscS9HMm01ZkU3TUlyajVCdFZ4SzJZdGExRS9CSFlSaEE9PRgAIAQoBDD80a+3ycKGAzjPv/zftzFA9/6CpP4xShxOS0x2RFRieDVQWWFSdlF0MXpXeFhPM2VMVmc9Wh8iHe1XSThjVVAyeTlFVldtc0hsNmRpSjZhUVlyZzA9ZUJj48MS7AEIBRLnAQocRWxOUXMvcXQwOUNaYSt5WUhDSzcvKzE2NHp3PRJmWjpBRHF0QVp5akpiSWFDYzZXRWxTejZ3VkR2bGxkVlgyWS9TR3ZFSzlxQlV6cTZRWjQ1WFZQUEhQNzJic0tLaU44S0tmVHEvRnpjcnpPYkJEaGhETTJudEpZVDhLbmVSaVBBUT09GAAgBCgEMIXpwZChwIYDOM6//N+3MUCkrYz+/TFKHEdqVkdac3JUOFNaWTFxdUl6M1JoZ2I3OTVsWT1aHyId2lNObEFMbTNycUZleFEwTU1yRi85dWNmazdobz1lL/Z/DhLDAQgDEr4BChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EmZaOkFEcXRBWnlnUXByQW9qN1ZpcW0zY2s5VUxoMW5vWWdURFV1WEVlNWV3eG52WWwyOG5KekZ6ZjJleFBQZHd4SWVDMzluOS9rdFlDc0VnbDRPTyttUDN4TGhXTmM4YWhiOHp3PT0YACAAKAAwhY/f2OOwhgM4AEAAShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAADABOAA=",
    "version": 1
 }

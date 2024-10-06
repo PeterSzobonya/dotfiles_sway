@@ -1,0 +1,5906 @@
+[
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "sleeknotestaticcontent.sleeknote.com",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035729
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||js.driftt.com/include",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035730
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||assets.ubembed.com/universal",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035731
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||lightboxcdn.com/vendor",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035732
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||mailocator.net/_/",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035733
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "cdn1.pdmntn.com",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035734
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||static.mailerlite.com/js",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035735
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||pmdstatic.net/bundle.php",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035736
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||front.optimonk.com/public/",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035737
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/wp-content/plugins/newsletter-leads",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035738
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||downloads.mailchimp.com/js/signup-forms",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035739
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||conduit.mailchimpapp.com/js/stores",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035740
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||a.optmnstr.com/app/js/",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035741
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||getsocial.io/client",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035742
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "resourceTypes": [
+        "script"
+      ],
+      "urlFilter": "||static.ctctcdn.com/js/signup-form-widget",
+      "isUrlFilterCaseSensitive": false,
+      "excludedInitiatorDomains": [
+        "centerforhealthsecurity.org"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035743
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||cdn.justuno.com/mwgt",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035744
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||a.mailmunch.co/app/",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035745
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/newsletterpopup.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035746
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/pmgnews/overlay/newsletter",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035747
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||dotmailer-surveys.com/scripts/survey.js",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035748
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||yieldify.com/yieldify/code.js",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035749
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||widget.privy.com/assets/widget.js",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035750
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "sumo.b-cdn.net",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035751
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||connect.nosto.com/include",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035752
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||chimpstatic.com/mcjs-connected/js/users",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035753
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||assets.pcrl.co/js/",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035754
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/wp-content/plugins/email-subscribers/widget/es-widget-page.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035755
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||youlead.pl/scripts/dynamic.js",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035756
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||m8.mailplus.nl/genericservice",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035757
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||restapi.mailplus.nl/integrationservice",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035758
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||snrcdn.net/sdk/",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035759
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "resourceTypes": [
+        "script"
+      ],
+      "urlFilter": "||cdn.dynamicyield.com/api",
+      "isUrlFilterCaseSensitive": false,
+      "excludedInitiatorDomains": [
+        "haix.de",
+        "bancofalabella.cl",
+        "gymshark.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035760
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||static.newsletter2go.com/utils.js",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035761
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/widget/ecnewsletterpopup/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035762
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||a.optmstr.com/app/js/",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035763
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||api.autopilothq.com/anywhere/",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035764
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||c.salecycle.com/osr/config",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035765
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/wp-content/plugins/thrive-leads/",
+      "isUrlFilterCaseSensitive": false,
+      "excludedInitiatorDomains": [
+        "itnator.net"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035766
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/wp-content/plugins/bloom/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035767
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||js.hsleadflows.net/leadflows.js",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035768
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/clientlib-newsletter.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035769
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||c.lytics.io/static/pathfora",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035770
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "email-signup-form-popup.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035771
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||netpeak.cloud/source/js",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035772
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||bunting.com/call",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035773
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||cdn.connectif.cloud/cl1/client-script/",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035774
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/essb-optin-booster.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035775
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "f.convertkit.com",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035776
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "api.morningcatch.net",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035777
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||shopify.privy.com/widget.js",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035778
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "load.sumo.com",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035779
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||cdn.listrakbi.com/scripts/script.js",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035780
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/wp-content/plugins/dreamgrow-scroll-triggered-box/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035781
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||d3bo67muzbfgtl.cloudfront.net/edrone",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035782
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/newsletter_modals.min.",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035783
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "my.hellobar.com",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035784
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||screenpopper.com/s-hub",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035785
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||static.scarabresearch.com/wpjs",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035786
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||cdn.swellrewards.com/loader",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035787
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||lifterpopup.com/js/modal.js",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035788
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||lpages.co/leadbox",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035789
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||cdn.crall.io/t/client.js",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035790
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||a.opmnstr.com/app/js/",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035791
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||app2.salesmanago.pl/dynamic",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035792
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||se.monetate.net/js/",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035793
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||cdn.blueconic.net/hearst.js",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035794
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/js/website/modal-newsletter~rc-module-newsletter",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035795
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||cdn.omniconvert.com/js",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035796
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||cdn.omniconvert.com/async/js",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035797
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/frosmo.easy.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035798
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||static-sb.com/js/sb-tracker.js",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035799
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||mailmojo.no/sdk.js",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035800
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/wp-content/popupally-pro-scripts",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035801
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||media-inea.ipresso.pl/monitoridentification",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035802
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/wp-content/plugins/mailoptin/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035803
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||a.optnmnstr.com/app/js/",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035804
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||static.popmechanic.ru/service/loader.js",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035805
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "static.zotabox.com",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035806
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||marketbeat.com/scripts/modal/affiliatepopup.js",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035807
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||widget.pico.tools/static/js/bundle.js",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035808
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||powr.io/powr.js",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035809
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/wp-content/plugins/layered-popups/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035810
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/wp-content/plugins/mailchimp-for-wp/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035811
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||bounceexchange.com/tag",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035812
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "tag.bounceexchange.com",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035813
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||leadpages.net/leadboxes/current",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035814
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||flodesk.com/universal",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035815
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "resourceTypes": [
+        "script"
+      ],
+      "urlFilter": "||activehosted.com/f/embed.php",
+      "isUrlFilterCaseSensitive": false,
+      "excludedInitiatorDomains": [
+        "renegade.global"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035816
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/wp-content/plugins/99robots-optin-fire/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035817
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||getresponse.com/view_webform",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035818
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/gr-popups",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035819
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||get.exitintel.com/load.js",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035820
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/popup-by-supsystic/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035821
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||cdn.jst.ai/mwgt",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035822
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||milotree.com/container",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035823
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/zaius-min.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035824
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/wp-content/plugins/convertplug/",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "other",
+        "csp_report",
+        "script",
+        "stylesheet",
+        "object",
+        "sub_frame",
+        "websocket",
+        "webbundle",
+        "ping",
+        "xmlhttprequest",
+        "media",
+        "font"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035825
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/wp-content/plugins/optin-monster/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035826
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": ".wisepops.com/get-loader.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035827
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "api.exponea.com",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035828
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/ouibounce.min.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035829
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||bluecore.com/triggermail",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035830
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||cloudiq.com/tag",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035831
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||leadpages.net/leadbars/current/embed.js",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035832
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||s.sloyalty.com/site_media",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035833
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||klaviyo.com/onsite/js/vendors~signupforms",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035834
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/vidstore-popups/assets/public/js/newsletter.min.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035835
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||app-abd.marketo.com/js",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035836
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||omappapi.com/app",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035837
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "tag.getdrip.com",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035838
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||zoho.com/js/optin",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035839
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/entries?content_type=staticcontentblock&fields.id=email-capture",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035840
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||cloud-iq.com/cartrecovery/store.js",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035841
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/axnewsletter.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035842
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/wp-content/plugins/popupally",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035843
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "api.omappapi.com",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035844
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/email-capture/email-capture-",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035845
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||californiatimes.com/newsletter-campaign-manager",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035846
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||quitsnap-blue.com/js/os_engine.js",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035847
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/wp-content/plugins/convertpro/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035848
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/wp-content/plugins/optin-revolution/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035849
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||addthis.com/js/300/addthis_widget.js",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035850
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "api-cis.exponea.com",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035851
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||api.traq.li/public/sdk",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035852
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "tracking.retargeting.biz",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035853
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "ping.contactpigeon.com",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035854
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/newsletter-invite.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035855
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/action-subscribe-2019.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035856
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||convertbox.com/convertbox",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035857
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||birdsend.co/assets/static/js/pixel/main.js",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035858
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||hd.koloo.net/oo.js",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035859
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||receiptful.com/scripts/shopify.js",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035860
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "t2.netsalesmedia.pl",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035861
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "content.govdelivery.com",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035862
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "api.pushnami.com",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035863
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/js/deploy/syndicated-newsletter",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035864
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "resourceTypes": [
+        "script"
+      ],
+      "urlFilter": "||klaviyo.com/onsite/js/signup_forms",
+      "isUrlFilterCaseSensitive": false,
+      "excludedInitiatorDomains": [
+        "ufpro.com",
+        "worldwidestereo.com",
+        "salada.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035865
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "popup.popupsmart.com",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035866
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/mol-fe-newsletter-popup/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035867
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "cdn.popt.in",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035868
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||data.whizeo.com/widgets",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035869
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||securedvisit.com/js/sv.js",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035870
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||dev.visualwebsiteoptimizer.com/j.php",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035871
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||convertkitqa.com/ckjs",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035872
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||bounceexchange.com/assets/smart-tag",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035873
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||adoric-om.com/adoric.js",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035874
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/wp-content/plugins/woo-coupon-box/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035875
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "forms.convertkit.com",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035876
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||convertkit.com/assets^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035877
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||sdks.automizely.com/conversions",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035878
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "cdn.attn.tv",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035879
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||cdn.threadloom.com/ga",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035880
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/js/website/modal-newsletter",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035881
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/exponea.min.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035882
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||newell.evergage.com/beacon",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035883
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/evergage.min.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035884
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/klaviyo_subscribe.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035885
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||mailcampaigns.nl/interface/popup",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035886
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/next-gen/dist/newsletterpopup",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035887
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "forms.smsbump.com",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035888
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/mod_motivatingcoupon/facebox/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035889
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||static.redeal.se/widget/js/redeal.js",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035890
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||cdn.optinly.net",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035891
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/rg_smartpopup/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035892
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/alert/email_subscribe/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035893
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/arengu-newsletter.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035894
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/popup-newsletter-",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035895
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||assets.mailerlite.com^",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035896
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/ps_emailsubscription.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035897
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||embedded.wishpondpages.com",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035898
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/hs-web-interactive-",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035899
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/ht_newsletterpopup",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035900
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/avada-popup.min.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035901
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||connectif.cloud^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035902
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||tr.vitals.co^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035903
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||optimove.net^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035904
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||sail-horizon.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035905
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/assets/section-mailing-popup.",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035906
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/kadence-conversions.",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035907
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||postscript.io^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035908
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||getsitecontrol.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035909
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||retargeting.newsmanapp.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035910
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||themarketer.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035911
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/wp-content/plugins/mailpoet/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035912
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||grow.me^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035913
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "notificationdisclaimercontrol.js",
+      "isUrlFilterCaseSensitive": false,
+      "initiatorDomains": [
+        "vontobel.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035914
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "list-builder.js",
+      "isUrlFilterCaseSensitive": false,
+      "initiatorDomains": [
+        "wanderlust.co.uk"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035915
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "/amd_modules/newsletter-hover",
+      "isUrlFilterCaseSensitive": false,
+      "initiatorDomains": [
+        "webmd.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035916
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "/politica-privacidade/lightbox",
+      "isUrlFilterCaseSensitive": false,
+      "initiatorDomains": [
+        "toysrus.pt"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035917
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "/opentag-",
+      "isUrlFilterCaseSensitive": false,
+      "initiatorDomains": [
+        "jet2.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035918
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "global-lightbox.js",
+      "isUrlFilterCaseSensitive": false,
+      "initiatorDomains": [
+        "drschollsshoes.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035919
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "/wpp-popup-frontend.js",
+      "isUrlFilterCaseSensitive": false,
+      "initiatorDomains": [
+        "globalvoices.org"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035920
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "/email.js",
+      "isUrlFilterCaseSensitive": false,
+      "initiatorDomains": [
+        "tp-link.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035921
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "resourceTypes": [
+        "script"
+      ],
+      "urlFilter": "||ibt-mail.com/view_webform",
+      "isUrlFilterCaseSensitive": false,
+      "initiatorDomains": [
+        "ibtimes.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035922
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "/lightboxform.js",
+      "isUrlFilterCaseSensitive": false,
+      "initiatorDomains": [
+        "tips.net"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035923
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "/esm.js",
+      "isUrlFilterCaseSensitive": false,
+      "initiatorDomains": [
+        "yamahamotorsports.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035924
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "/aiosp-jsonp.js",
+      "isUrlFilterCaseSensitive": false,
+      "initiatorDomains": [
+        "kleren.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035925
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "/vol-modal/",
+      "isUrlFilterCaseSensitive": false,
+      "initiatorDomains": [
+        "thepaintstore.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035926
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "resourceTypes": [
+        "script"
+      ],
+      "urlFilter": "||imimg.com/js/reqforms.min.js",
+      "isUrlFilterCaseSensitive": false,
+      "initiatorDomains": [
+        "indiamart.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035927
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "try.abtasty.com",
+      "isUrlFilterCaseSensitive": false,
+      "initiatorDomains": [
+        "leparisien.fr"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035928
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "/action-subscribe",
+      "isUrlFilterCaseSensitive": false,
+      "initiatorDomains": [
+        "naturalnews.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035929
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "/sharing/popover.js",
+      "isUrlFilterCaseSensitive": false,
+      "initiatorDomains": [
+        "mymemory.co.uk"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035930
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "/popup/tsr",
+      "isUrlFilterCaseSensitive": false,
+      "initiatorDomains": [
+        "superyachtnews.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035931
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "/simplesignupmanager.chunk.js",
+      "isUrlFilterCaseSensitive": false,
+      "initiatorDomains": [
+        "manning.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035932
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "cdn-promote.weebly.com",
+      "isUrlFilterCaseSensitive": false,
+      "initiatorDomains": [
+        "weebly.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035933
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "/acquisition-tag.js",
+      "isUrlFilterCaseSensitive": false,
+      "initiatorDomains": [
+        "latribune.fr"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035934
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "/pharmapopin/",
+      "isUrlFilterCaseSensitive": false,
+      "initiatorDomains": [
+        "pharmasimple.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035935
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "/crm.js",
+      "isUrlFilterCaseSensitive": false,
+      "initiatorDomains": [
+        "fujifilm-x.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035936
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "/sven_daspopup/",
+      "isUrlFilterCaseSensitive": false,
+      "initiatorDomains": [
+        "adler-farbenmeister.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035937
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "/popupnewsletter/getlayer",
+      "isUrlFilterCaseSensitive": false,
+      "initiatorDomains": [
+        "yoox.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035938
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "/emailcollection/",
+      "isUrlFilterCaseSensitive": false,
+      "initiatorDomains": [
+        "motorsport.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035939
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "/popoverv2.js",
+      "isUrlFilterCaseSensitive": false,
+      "initiatorDomains": [
+        "britishcornershop.co.uk"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035940
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "/fp-web-flyout-widget.min.js^",
+      "isUrlFilterCaseSensitive": false,
+      "initiatorDomains": [
+        "getfirepush.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035941
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "/tingle.",
+      "isUrlFilterCaseSensitive": false,
+      "initiatorDomains": [
+        "arcade1up.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035942
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "||tinypass.com/api/tinypass.min.js^",
+      "isUrlFilterCaseSensitive": false,
+      "initiatorDomains": [
+        "technologyreview.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035943
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "/sysconsentcomponent.js",
+      "isUrlFilterCaseSensitive": false,
+      "initiatorDomains": [
+        "netpeak.net"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035944
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||safetyfirstaid.co.uk/ajx_newsletter",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035945
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "/uael-modal-popup.",
+      "isUrlFilterCaseSensitive": false,
+      "initiatorDomains": [
+        "ackerwines.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035946
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||cdn.p-n.io/pushly",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035947
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||app3.emlgrid.com/static/sm.js",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035948
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "webpush-desktop.chunk.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035949
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||push4site.com/static/script/",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035950
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "cdn.ghostmonitor.com",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035951
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "notify.hindustantimes.com",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035952
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "webpush.interia.pl",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035953
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": ".izooto.com/scripts",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035954
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "js.pusher.com",
+      "isUrlFilterCaseSensitive": false,
+      "excludedInitiatorDomains": [
+        "itv.com",
+        "lickd.co",
+        "foliohd.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035955
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||push-ad.com/integration.php",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035956
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||cdn.pushassist.com/account/assets/",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035957
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||gadgets.ndtv.com/static/desktop/js/notification_popup-min.js",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035958
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "pusherism.com",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035959
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "pushnest.com",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035960
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||getpushmonkey.com/sdk/config",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035961
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||cdn.onesignal.com/sdks",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035962
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||pushpushgo.com/js",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035963
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "cdn.sendpulse.com",
+      "isUrlFilterCaseSensitive": false,
+      "excludedInitiatorDomains": [
+        "movie4k.eu"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035964
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||salesmanago.pl/static/sm.js",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035965
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "cdn.pushcrew.com",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035966
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/streamlined-push-plugin.production.min.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035967
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "app.push-ad.com",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035968
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/pushnotification/service-worker-script.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035969
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/sp-push-worker.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035970
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "95p5qep4aq.com",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035971
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||snrcdn.net/sdk/",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035972
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "via.batch.com",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035973
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||wonderpush.com/sdk/",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035974
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "clientcdn.pushengage.com",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035975
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||web-sdk.urbanairship.com/notify/",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035976
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "api.sociaplus.com",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035977
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/plugins/tmx-push/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035978
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/firebase-messaging.js",
+      "isUrlFilterCaseSensitive": false,
+      "excludedInitiatorDomains": [
+        "dn.pt",
+        "jn.pt"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035979
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "pushno.com",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035980
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "pushwhy.com",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035981
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "pushame.com",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035982
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||voirfilms.ws/sw.js",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035983
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||siteswithcontent.com/js/push",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035984
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||cdn.moengage.com/webpush",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035985
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||brandflow.net/static/general/push-init-code.js",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035986
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||cleverpush.com/channel/loader",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035987
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||static.getback.ch/clients",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035988
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/pushnotifications.",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035989
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "cdn.pushowl.com",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035990
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||accengage.net/pushweb/",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035991
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||cdn.foxpush.net/sdk/foxpush_sdk",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035992
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||js.appboycdn.com/web-sdk/",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035993
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||cdn.taboola.com/libtrc/tmg-network/loader.js",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035994
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/js/push_subscription.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035995
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||pushwoosh.com/webpush",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035996
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "push_service-worker.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035997
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "0_ghpush_client.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035998
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||pastoupt.com/ntfc.php",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1035999
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||pushsar.com/ntfc.php",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036000
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "sdk.jeeng.com",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036001
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||d3bo67muzbfgtl.cloudfront.net/edrone",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036002
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||admessage.support/system_domain.js",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036003
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/push/js/sdk/insider-push-native-sdk.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036004
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "pharance.com",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036005
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||pushance.com/ntfc.php",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036006
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||tattepush.com/push.js",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036007
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": ".contentsitesrv.com/js/push",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036008
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||jattepush.com/push.js",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036009
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||pushanert.com/ntfc.php",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036010
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/web-push/init.min.js",
+      "isUrlFilterCaseSensitive": false,
+      "excludedInitiatorDomains": [
+        "finanzen.ch",
+        "finanzen.net",
+        "finanzen.at"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036011
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||aimtell.com/trackpush/trackpush.min.js",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036012
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||hmcfront.akamaized.net/hd/extra/assets/www/notification.",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036013
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/webpush.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036014
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||youlead.pl/ylwebpush.js",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036015
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "push.delivery.ethinking.de",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036016
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/web-push.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036017
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||freeclick.me/?pu=",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036018
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||cdn.pushalert.co/integrate",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036019
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||cdn.gravitec.net/storage",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036020
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": ".izooto.com/optin",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036021
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "cdn.qgraph.io",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036022
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "sw.wpush.org",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036023
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||cdn.pn.vg/c/ig/pushnews.min.js",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036024
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||subscribers.com/assets/subscribers.js",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036025
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/webpush-loader.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036026
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "app.wigzo.com",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036027
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "app.getbeamer.com",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036028
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "api.signalize.com",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036029
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "cdn.letreach.com",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036030
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "gg.faromen.online",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036031
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/js/webpushr.app",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036032
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||pushwoosh.com/json",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036033
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||pushpushgo.com/scripts",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036034
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||hrbpark.bid/pushjs",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036035
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||webpushs.com/js/push",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036036
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "wwopenclick.space",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036037
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "iss.shopimind.com",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036038
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||cdn.pn.vg/push",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036039
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/webpush-production.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036040
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "cdn.notifyvisitors.com",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036041
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||cdn.webpushr.com/app",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036042
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "t2.netsalesmedia.pl",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036043
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "api.pushnami.com",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036044
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/onesignalsdk",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036045
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||aswpsdkus.com/notify",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036046
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/web-push-notification.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036047
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/nano-webpush-ui",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036048
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "cdn.pushmaster-cdn.xyz",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036049
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "cdn.netmera-web.com",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036050
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/smio-push-notification/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036051
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/bildirtsdkfiles.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036052
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "cdn.onepush.app",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036053
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||truepush.com/sdk",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036054
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||assets.emarsys.net/web-emarsys-sdk/",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036055
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||notifpush.com/scripts",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036056
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||js.smct.io/*/notifications",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036057
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "push/push",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036058
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||pushwoosh.com^",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036059
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/pushnotifications^",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036060
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||sendsay.ru/backend/push/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036061
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/social_push_notifications/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036062
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||pushpanda.io^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036063
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||potisni.me/js/enable-push.js",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036064
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/_pushallow.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036065
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/clevertap.min.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036066
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "plugins/tfnotifier-wp/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036067
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "messaging/webpush",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036068
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/service-webpush-firebase.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036069
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/js/push.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036070
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/notification.*.js",
+      "isUrlFilterCaseSensitive": false,
+      "excludedInitiatorDomains": [
+        "qudosbank.com.au",
+        "myhealth.va.gov",
+        "costco.ca",
+        "costco.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036071
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "||notification.dmm.co.jp",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "id": 1036072
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||notix.io^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036073
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||pushouse.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036074
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||yottlyscript.com/push/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036075
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/wzrk_dialog.min.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036076
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||gr-cdn-e.eu/*/push-notification^",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036077
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||dengage.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036078
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||larapush.com^",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036079
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "/sw.js",
+      "isUrlFilterCaseSensitive": false,
+      "initiatorDomains": [
+        "pinterest.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036080
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "/public/spartanien/js/sw_handler",
+      "isUrlFilterCaseSensitive": false,
+      "initiatorDomains": [
+        "spartanien.de"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036081
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "/pushes/notification.js",
+      "isUrlFilterCaseSensitive": false,
+      "initiatorDomains": [
+        "rt.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036082
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "/js/subscriber",
+      "isUrlFilterCaseSensitive": false,
+      "initiatorDomains": [
+        "mitula.pt"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036083
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "/firebase.js",
+      "isUrlFilterCaseSensitive": false,
+      "initiatorDomains": [
+        "alibaba.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036084
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "/sw.js",
+      "isUrlFilterCaseSensitive": false,
+      "initiatorDomains": [
+        "1337x.is"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036085
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "/sw.js",
+      "isUrlFilterCaseSensitive": false,
+      "initiatorDomains": [
+        "1337x.to"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036086
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "/push-main-min.js",
+      "isUrlFilterCaseSensitive": false,
+      "initiatorDomains": [
+        "ndtv.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036087
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "/js/adnotice.js",
+      "isUrlFilterCaseSensitive": false,
+      "initiatorDomains": [
+        "hardwarezone.com.sg"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036088
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "/push/",
+      "isUrlFilterCaseSensitive": false,
+      "initiatorDomains": [
+        "tut.by"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036089
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "/firebase.min.js",
+      "isUrlFilterCaseSensitive": false,
+      "initiatorDomains": [
+        "azoresgetaways.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036090
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "/firebase.js",
+      "isUrlFilterCaseSensitive": false,
+      "initiatorDomains": [
+        "tribunavalladolid.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036091
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "client-.js",
+      "isUrlFilterCaseSensitive": false,
+      "initiatorDomains": [
+        "hoerbuch.us"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036092
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "/js/a.js",
+      "isUrlFilterCaseSensitive": false,
+      "initiatorDomains": [
+        "allevents.in"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036093
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "notifi.min.js",
+      "isUrlFilterCaseSensitive": false,
+      "initiatorDomains": [
+        "antyradio.pl"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036094
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "/app.js",
+      "isUrlFilterCaseSensitive": false,
+      "initiatorDomains": [
+        "lightinthebox.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036095
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "/min/js/sw/",
+      "isUrlFilterCaseSensitive": false,
+      "initiatorDomains": [
+        "sputniknews.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036096
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "/clientt.js",
+      "isUrlFilterCaseSensitive": false,
+      "initiatorDomains": [
+        "cript.to"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036097
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "wsnotification.js",
+      "isUrlFilterCaseSensitive": false,
+      "initiatorDomains": [
+        "wondershare.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036098
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "resourceTypes": [
+        "script"
+      ],
+      "urlFilter": "||tags.tiqcdn.com/utag",
+      "isUrlFilterCaseSensitive": false,
+      "initiatorDomains": [
+        "national-lottery.co.uk"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036099
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "/notification-topics.js^",
+      "isUrlFilterCaseSensitive": false,
+      "initiatorDomains": [
+        "winnipegfreepress.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036100
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "nebula-cdn.kampyle.com",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036101
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||turbo.qualaroo.com/c.js",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036102
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||scripts.psyma.com/layer_question",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036103
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "w.usabilla.com",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036104
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||static.hotjar.com/c/hotjar",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036105
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||scripts.psyma.com/html/layer/json_question.php",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036106
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||visualwebsiteoptimizer.com/va_survey",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036107
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "gateway.answerscloud.com",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036108
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "st.getsitecontrol.com",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036109
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||survey.g.doubleclick.net/survey",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036110
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/opiniac.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036111
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||ssl.ceneo.pl/shops/",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036112
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||cloud.netquest.sk/scripts/widget",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036113
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||storage.googleapis.com/outfox/ocs/surveys/",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036114
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||kameleoon.eu/kameleoon.js",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036115
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||invitation.opinionbar.com/wit/popups",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036116
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||neads.delivery/opinion-seed-embed.js",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036117
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||collect.mopinion.com/assets/surveys/",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036118
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/runtimejs/dist/survey/js/survey.js",
+      "isUrlFilterCaseSensitive": false,
+      "excludedInitiatorDomains": [
+        "alchemer.eu"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036119
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||surveygizmobeacon.s3.amazonaws.com/beaconconfigs/",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036120
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||cpx.smind.hr/log/logdata",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036121
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "resourceTypes": [
+        "script"
+      ],
+      "urlFilter": "||widget.surveymonkey.com/collect",
+      "isUrlFilterCaseSensitive": false,
+      "excludedInitiatorDomains": [
+        "onboarding.italki.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036122
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||cdn.feedbackify.com/f.js",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036123
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||invitation.opinionbar.com/popups",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036124
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/bundles/scripts/opinionlab.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036125
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||survey.nuggad.net/c/layer-html",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036126
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||ips-invite.iperceptions.com/invitations",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036127
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/oo_engine.min.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036128
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||userzoom.com/feedback",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036129
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||invite.leanlab.co/invite/invite.js",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036130
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||userreport.com/newsquest/launcher.js",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036131
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "siteintercept.qualtrics.com",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036132
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||sandsiv.com/digi_runner.js?surveyid",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036133
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||digitalfeedback.euro.confirmit.com/api",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036134
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||taskanalytics.com/tm.js",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036135
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "popup.designtutkimus.fi",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036136
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||guitaretab.com/static/js/hats",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036137
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/v1/survey_invite.min.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036138
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||app.alpheid.com/js/marketing_automation",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036139
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||siteimproveanalytics.com/js/siteanalyze",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036140
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||cdn.judge.me/shopify_v2.js",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036141
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||static.yourcx.io/customers",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036142
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||webankieta.pl/scripts/widget",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036143
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "popin.survey-xact.dk",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036144
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||myaudience.de/sv/rifflejs.php",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036145
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||survey.survicate.com/workspaces",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036146
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||tryinteract.com/promotions/init.js",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036147
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||scripts.psyma.com/scripts",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036148
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||surveygizmo.eu/runtimejs/intercept",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036149
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "widgets.opinary.com",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036150
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||uxfeedback.ru/widget.js",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036151
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||e-satisfaction.com/dist/js/integration",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036152
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||gateway.foresee.com",
+      "isUrlFilterCaseSensitive": false,
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036153
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "/vendor/opinionlab/",
+      "isUrlFilterCaseSensitive": false,
+      "initiatorDomains": [
+        "lenovo.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036154
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "survey.js",
+      "isUrlFilterCaseSensitive": false,
+      "initiatorDomains": [
+        "medier24.no"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036155
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "/components-nps-survey",
+      "isUrlFilterCaseSensitive": false,
+      "initiatorDomains": [
+        "spanishdict.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036156
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "exitintentmodal.js",
+      "isUrlFilterCaseSensitive": false,
+      "initiatorDomains": [
+        "stepstone.de"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036157
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "/surveys/",
+      "isUrlFilterCaseSensitive": false,
+      "initiatorDomains": [
+        "europa.eu"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036158
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||visitor.reactful.com/dist/main",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036159
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "/popup/puppy.js",
+      "isUrlFilterCaseSensitive": false,
+      "initiatorDomains": [
+        "sueddeutsche.de"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036160
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||userreport.com/aperitif/launcher.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036161
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||apps.veedio.it/js/videobox",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036162
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/responsive-player/video-feature-sticky.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036163
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||s-pt.ppstatic.pl/p/js/regionalne/plywajace_wideo.js",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036164
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/js/compiled/atoms/article/sticky-video.js",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036165
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||sdk.digitalbees.it/jssdk.js",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036166
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||live.sekindo.com/live/liveview.php",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036167
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||c.jsrdn.com/s/cs.js",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036168
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||playwire.com/plugins/docky.min.js",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036169
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||cdn.connatix.com/min/connatix.renderer.infeed.min.js",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036170
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||ultimedia.com/api/widget/smart",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036171
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||stream.playbuzz.com/embed/sdk.js",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036172
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||delivery.youplay.se/load.js",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036173
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "embed.sendtonews.com",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036174
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "/wp-content/plugins/pmc-plugins/pmc-adm/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036175
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||services.brid.tv/player",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036176
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||mgid.com/js/wglibs/mgwidget",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036177
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "/stn-player.js",
+      "isUrlFilterCaseSensitive": false,
+      "initiatorDomains": [
+        "titantv.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036178
+  },
+  {
+    "priority": 1000,
+    "condition": {
+      "urlFilter": "||vplayer.enthusiastgaming.com/player/build/plugins/slideinview/",
+      "isUrlFilterCaseSensitive": false
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036179
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "/mol-adverts-delayed.js",
+      "isUrlFilterCaseSensitive": false,
+      "initiatorDomains": [
+        "dailymail.co.uk"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036180
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "/twocol_article_autoplay/",
+      "isUrlFilterCaseSensitive": false,
+      "initiatorDomains": [
+        "belfasttelegraph.co.uk"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036181
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "players.brightcove.net",
+      "isUrlFilterCaseSensitive": false,
+      "initiatorDomains": [
+        "uproxx.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036182
+  },
+  {
+    "priority": 2000,
+    "condition": {
+      "urlFilter": "/coronawidget5/",
+      "isUrlFilterCaseSensitive": false,
+      "initiatorDomains": [
+        "ibtimes.sg"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "id": 1036183
+  }
+]

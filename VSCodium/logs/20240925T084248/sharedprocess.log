@@ -1,0 +1,29 @@
+2024-09-25 08:42:55.424 [info] Getting Manifest... dart-code.dart-code
+2024-09-25 08:42:55.436 [info] Getting Manifest... dart-code.flutter
+2024-09-25 08:42:56.139 [info] Installing extension: dart-code.flutter {"productVersion":{"version":"1.93.0","date":"2024-09-11T20:05:20.431Z"},"pinned":false,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/peter/.vscode-oss/extensions/extensions.json","path":"/home/peter/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-09-25 08:42:56.252 [info] Installing extension: dart-code.dart-code {"productVersion":{"version":"1.93.0","date":"2024-09-11T20:05:20.431Z"},"pinned":false,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/peter/.vscode-oss/extensions/extensions.json","path":"/home/peter/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-09-25 08:42:56.339 [info] Getting Manifest... dart-code.dart-code
+2024-09-25 08:42:56.375 [info] Waiting for already requested installing extension dart-code.dart-code dart-code.flutter vscode-userdata:/home/peter/.vscode-oss/extensions/extensions.json
+2024-09-25 08:42:56.618 [info] Extracted extension to file:///home/peter/.vscode-oss/extensions/dart-code.flutter-3.96.0-universal: dart-code.flutter
+2024-09-25 08:42:56.623 [info] Renamed to /home/peter/.vscode-oss/extensions/dart-code.flutter-3.96.0-universal
+2024-09-25 08:42:56.638 [info] Marked extension as uninstalled dart-code.flutter-3.94.0-universal
+2024-09-25 08:42:56.711 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/peter/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/peter/.vscode-oss/extensions/extensions.json.vsctmp'
+    at o.create (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22224)
+    at h (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22355)
+    at p.toFileSystemProviderError (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:48003)
+    at p.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:38485)
+    at async c.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:19784)
+    at async B.onDidFilesChange (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:148257)
+2024-09-25 08:43:15.055 [info] Extracted extension to file:///home/peter/.vscode-oss/extensions/dart-code.dart-code-3.96.0-universal: dart-code.dart-code
+2024-09-25 08:43:15.072 [info] Renamed to /home/peter/.vscode-oss/extensions/dart-code.dart-code-3.96.0-universal
+2024-09-25 08:43:15.090 [info] Marked extension as uninstalled dart-code.dart-code-3.94.0-universal
+2024-09-25 08:43:15.095 [info] Extension installed successfully: dart-code.dart-code vscode-userdata:/home/peter/.vscode-oss/extensions/extensions.json
+2024-09-25 08:43:15.095 [info] Finished waiting for already requested installing extension dart-code.dart-code dart-code.flutter vscode-userdata:/home/peter/.vscode-oss/extensions/extensions.json
+2024-09-25 08:43:15.096 [info] Extension installed successfully: dart-code.flutter vscode-userdata:/home/peter/.vscode-oss/extensions/extensions.json
+2024-09-25 08:43:15.161 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/peter/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/peter/.vscode-oss/extensions/extensions.json.vsctmp'
+    at o.create (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22224)
+    at h (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22355)
+    at p.toFileSystemProviderError (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:48003)
+    at p.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:38485)
+    at async c.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:19784)
+    at async B.onDidFilesChange (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:148257)

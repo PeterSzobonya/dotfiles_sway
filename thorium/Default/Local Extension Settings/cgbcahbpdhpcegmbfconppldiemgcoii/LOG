@@ -1,22 +1,30 @@
-2024/06/03-20:50:52.994 777 Reusing MANIFEST /home/peter/.config/thorium/Default/Local Extension Settings/cgbcahbpdhpcegmbfconppldiemgcoii/MANIFEST-000001
-2024/06/03-20:50:52.995 777 Recovering log #98
-2024/06/03-20:50:52.995 777 Reusing old log /home/peter/.config/thorium/Default/Local Extension Settings/cgbcahbpdhpcegmbfconppldiemgcoii/000098.log 
-2024/06/03-20:51:32.551 777 Level-0 table #102: started
-2024/06/03-20:51:32.575 777 Level-0 table #102: 4190947 bytes OK
-2024/06/03-20:51:32.578 777 Delete type=0 #98
-2024/06/03-20:51:32.579 777 Compacting 4@0 + 3@1 files
-2024/06/03-20:51:32.597 777 Generated table #103@0: 4 keys, 2451117 bytes
-2024/06/03-20:51:32.615 777 Generated table #104@0: 6 keys, 2444657 bytes
-2024/06/03-20:51:32.656 777 Generated table #105@0: 15 keys, 1884857 bytes
-2024/06/03-20:51:32.657 777 Compacted 4@0 + 3@1 files => 6780631 bytes
-2024/06/03-20:51:32.659 777 compacted to: files[ 0 3 5 0 0 0 0 ]
-2024/06/03-20:51:32.660 777 Delete type=2 #94
-2024/06/03-20:51:32.660 777 Delete type=2 #99
-2024/06/03-20:51:32.660 777 Delete type=2 #102
-2024/06/03-20:51:32.660 777 Delete type=2 #91
-2024/06/03-20:51:32.660 777 Delete type=2 #97
-2024/06/03-20:51:32.660 777 Delete type=2 #92
-2024/06/03-20:51:32.660 777 Delete type=2 #90
-2024/06/03-20:52:29.734 777 Level-0 table #107: started
-2024/06/03-20:52:29.819 777 Level-0 table #107: 5723852 bytes OK
-2024/06/03-20:52:29.823 777 Delete type=0 #101
+2024/10/05-17:25:52.137 832 Reusing MANIFEST /home/peter/.config/thorium/Default/Local Extension Settings/cgbcahbpdhpcegmbfconppldiemgcoii/MANIFEST-000001
+2024/10/05-17:25:52.137 832 Recovering log #491
+2024/10/05-17:25:52.138 832 Reusing old log /home/peter/.config/thorium/Default/Local Extension Settings/cgbcahbpdhpcegmbfconppldiemgcoii/000491.log 
+2024/10/06-19:40:13.797 831 Level-0 table #495: started
+2024/10/06-19:40:13.825 831 Level-0 table #495: 5143364 bytes OK
+2024/10/06-19:40:13.829 831 Delete type=0 #491
+2024/10/06-19:41:16.257 83a Level-0 table #497: started
+2024/10/06-19:41:16.322 83a Level-0 table #497: 8275823 bytes OK
+2024/10/06-19:41:16.325 83a Delete type=0 #494
+2024/10/06-19:41:16.327 83a Compacting 4@0 + 3@1 files
+2024/10/06-19:41:16.351 83a Generated table #498@0: 4 keys, 2493290 bytes
+2024/10/06-19:41:16.373 83a Generated table #499@0: 5 keys, 2539639 bytes
+2024/10/06-19:41:16.396 83a Generated table #500@0: 3 keys, 2396874 bytes
+2024/10/06-19:41:16.520 83a Generated table #501@0: 2 keys, 4894493 bytes
+2024/10/06-19:41:16.540 83a Generated table #502@0: 8 keys, 1091037 bytes
+2024/10/06-19:41:16.540 83a Compacted 4@0 + 3@1 files => 13415333 bytes
+2024/10/06-19:41:16.552 83a compacted to: files[ 0 5 5 0 0 0 0 ]
+2024/10/06-19:41:16.553 83a Delete type=2 #482
+2024/10/06-19:41:16.553 83a Delete type=2 #492
+2024/10/06-19:41:16.553 83a Delete type=2 #486
+2024/10/06-19:41:16.553 83a Delete type=2 #497
+2024/10/06-19:41:16.553 83a Delete type=2 #490
+2024/10/06-19:41:16.553 83a Delete type=2 #495
+2024/10/06-19:41:16.553 83a Delete type=2 #485
+2024/10/06-19:41:16.562 83a Compacting 1@1 + 1@2 files
+2024/10/06-19:41:16.649 83a Generated table #503@1: 2 keys, 4894493 bytes
+2024/10/06-19:41:16.649 83a Compacted 1@1 + 1@2 files => 4894493 bytes
+2024/10/06-19:41:16.652 83a compacted to: files[ 0 4 5 0 0 0 0 ]
+2024/10/06-19:41:16.652 83a Delete type=2 #501
+2024/10/06-19:41:16.652 83a Delete type=2 #444

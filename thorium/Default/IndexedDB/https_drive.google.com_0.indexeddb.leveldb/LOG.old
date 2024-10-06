@@ -1,0 +1,21 @@
+2024/08/13-08:52:00.087 4ac4 Reusing MANIFEST /home/peter/.config/thorium/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/08/13-08:52:00.087 4ac4 Recovering log #20
+2024/08/13-08:52:00.087 4ac4 Reusing old log /home/peter/.config/thorium/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000020.log 
+2024/08/13-08:52:05.824 4ac5 Level-0 table #28: started
+2024/08/13-08:52:05.853 4ac5 Level-0 table #28: 1482711 bytes OK
+2024/08/13-08:52:05.856 4ac5 Delete type=0 #20
+2024/08/13-08:52:05.859 4ac5 Compacting 1@1 + 4@2 files
+2024/08/13-08:52:05.890 4ac5 Generated table #29@1: 7819 keys, 2131118 bytes
+2024/08/13-08:52:05.908 4ac5 Level-0 table #32: started
+2024/08/13-08:52:05.928 4ac5 Level-0 table #32: 1809867 bytes OK
+2024/08/13-08:52:05.932 4ac5 Delete type=0 #27
+2024/08/13-08:52:05.944 4ac5 Generated table #30@1: 2291 keys, 2128892 bytes
+2024/08/13-08:52:05.973 4ac5 Generated table #33@1: 2491 keys, 2118983 bytes
+2024/08/13-08:52:06.003 4ac5 Generated table #34@1: 11530 keys, 1883297 bytes
+2024/08/13-08:52:06.003 4ac5 Compacted 1@1 + 4@2 files => 8262290 bytes
+2024/08/13-08:52:06.006 4ac5 compacted to: files[ 1 0 4 0 0 0 0 ]
+2024/08/13-08:52:06.006 4ac5 Delete type=2 #25
+2024/08/13-08:52:06.006 4ac5 Delete type=2 #24
+2024/08/13-08:52:06.006 4ac5 Delete type=2 #23
+2024/08/13-08:52:06.006 4ac5 Delete type=2 #22
+2024/08/13-08:52:06.006 4ac5 Delete type=2 #28

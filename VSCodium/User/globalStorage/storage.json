@@ -4,23 +4,26 @@
         "workspaces": {
             "file:///home/peter/Documents/test_app": "__default__profile__",
             "file:///home/peter/Downloads/11.%20gyakorlat": "__default__profile__",
-            "file:///home/peter/.config/sway": "__default__profile__",
             "file:///home/peter/Documents/elte/react-bead-jubhunter-starter-kit": "__default__profile__",
-            "file:///home/peter/Documents/test/bead2": "__default__profile__"
+            "file:///home/peter/Documents/test/bead2": "__default__profile__",
+            "file:///home/peter/.config/sway": "__default__profile__",
+            "file:///home/peter/.config/waybar": "__default__profile__"
         },
-        "emptyWindows": {}
+        "emptyWindows": {
+            "1727246569361": "__default__profile__"
+        }
     },
     "profileAssociationsMigration": true,
     "telemetry.sqmId": "",
     "telemetry.machineId": "35a6df1b055f292385ca8e2a94e3b367a6d54561f2a2a4eeb3b3a1d289f0690b",
     "backupWorkspaces": {
         "workspaces": [],
-        "folders": [
+        "folders": [],
+        "emptyWindows": [
             {
-                "folderUri": "file:///home/peter/Documents/test/bead2"
+                "backupFolder": "1727246569361"
             }
-        ],
-        "emptyWindows": []
+        ]
     },
     "lastKnownMenubarData": {
         "menus": {
@@ -37,6 +40,18 @@
                     {
                         "id": "workbench.action.newWindow",
                         "label": "New &&Window"
+                    },
+                    {
+                        "id": "submenuitem.OpenProfile",
+                        "label": "New Window with Profile",
+                        "submenu": {
+                            "items": [
+                                {
+                                    "id": "workbench.profiles.actions.createProfile",
+                                    "label": "New Profile..."
+                                }
+                            ]
+                        }
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -70,6 +85,28 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
+                                        "external": "file:///home/peter/.config/sway",
+                                        "path": "/home/peter/.config/sway",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.config/sway"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/peter/.config/waybar",
+                                        "path": "/home/peter/.config/waybar",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.config/waybar"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
                                         "external": "file:///home/peter/Documents/test/bead2",
                                         "path": "/home/peter/Documents/test/bead2",
                                         "scheme": "file"
@@ -92,17 +129,6 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/peter/.config/sway",
-                                        "path": "/home/peter/.config/sway",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/.config/sway"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
                                         "external": "file:///home/peter/Downloads/11.%20gyakorlat",
                                         "path": "/home/peter/Downloads/11. gyakorlat",
                                         "scheme": "file"
@@ -120,6 +146,20 @@
                                     },
                                     "enabled": true,
                                     "label": "~/Documents/test_app"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/peter/.minecraft/versions/Boosted%20FPS%20%5BFABRIC%5D%20Performance%20Mods%20Boosted%20FPS%20Fabric-1.21-1.4.0/TLauncherAdditional.json",
+                                        "path": "/home/peter/.minecraft/versions/Boosted FPS [FABRIC] Performance Mods Boosted FPS Fabric-1.21-1.4.0/TLauncherAdditional.json",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.minecraft/versions/Boosted FPS [FABRIC] Performance Mods Boosted FPS Fabric-1.21-1.4.0/TLauncherAdditional.json"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -178,19 +218,8 @@
                         "submenu": {
                             "items": [
                                 {
-                                    "id": "github.copyVscodeDevLinkFile",
-                                    "label": "Copy vscode.dev Link"
-                                },
-                                {
-                                    "id": "vscode.menubar.separator"
-                                },
-                                {
                                     "id": "workbench.profiles.actions.exportProfile",
                                     "label": "Export Profile (Default)..."
-                                },
-                                {
-                                    "id": "workbench.profiles.actions.importProfile",
-                                    "label": "Import Profile..."
                                 }
                             ]
                         }
@@ -208,47 +237,8 @@
                         "submenu": {
                             "items": [
                                 {
-                                    "id": "submenuitem.Profiles",
-                                    "label": "Profiles (Default)",
-                                    "submenu": {
-                                        "items": [
-                                            {
-                                                "id": "workbench.profiles.actions.profileEntry.__default__profile__",
-                                                "label": "Default",
-                                                "checked": true
-                                            },
-                                            {
-                                                "id": "vscode.menubar.separator"
-                                            },
-                                            {
-                                                "id": "workbench.profiles.actions.showProfileContents",
-                                                "label": "Show Profile Contents"
-                                            },
-                                            {
-                                                "id": "vscode.menubar.separator"
-                                            },
-                                            {
-                                                "id": "workbench.profiles.actions.createProfile",
-                                                "label": "Create Profile..."
-                                            },
-                                            {
-                                                "id": "workbench.profiles.actions.deleteProfile",
-                                                "label": "Delete Profile...",
-                                                "enabled": false
-                                            },
-                                            {
-                                                "id": "vscode.menubar.separator"
-                                            },
-                                            {
-                                                "id": "workbench.profiles.actions.exportProfile",
-                                                "label": "Export Profile..."
-                                            },
-                                            {
-                                                "id": "workbench.profiles.actions.importProfile",
-                                                "label": "Import Profile..."
-                                            }
-                                        ]
-                                    }
+                                    "id": "workbench.profiles.actions.manageProfiles",
+                                    "label": "&&Profiles"
                                 },
                                 {
                                     "id": "workbench.action.openSettings",
@@ -264,11 +254,11 @@
                                 },
                                 {
                                     "id": "workbench.action.openSnippets",
-                                    "label": "Configure User Snippets"
+                                    "label": "Configure Snippets"
                                 },
                                 {
                                     "id": "workbench.action.tasks.openUserTasks",
-                                    "label": "User Tasks"
+                                    "label": "Tasks"
                                 },
                                 {
                                     "id": "submenuitem.ThemesSubMenu",
@@ -310,10 +300,6 @@
                     {
                         "id": "workbench.action.closeActiveEditor",
                         "label": "&&Close Editor"
-                    },
-                    {
-                        "id": "workbench.action.closeFolder",
-                        "label": "Close &&Folder"
                     },
                     {
                         "id": "workbench.action.closeWindow",
@@ -509,8 +495,7 @@
                                 },
                                 {
                                     "id": "workbench.action.toggleSidebarVisibility",
-                                    "label": "&&Primary Side Bar",
-                                    "checked": true
+                                    "label": "&&Primary Side Bar"
                                 },
                                 {
                                     "id": "workbench.action.toggleAuxiliaryBar",
@@ -567,9 +552,8 @@
                                     "submenu": {
                                         "items": [
                                             {
-                                                "id": "workbench.action.positionPanelBottom",
-                                                "label": "Bottom",
-                                                "checked": true
+                                                "id": "workbench.action.positionPanelTop",
+                                                "label": "Top"
                                             },
                                             {
                                                 "id": "workbench.action.positionPanelLeft",
@@ -578,6 +562,11 @@
                                             {
                                                 "id": "workbench.action.positionPanelRight",
                                                 "label": "Right"
+                                            },
+                                            {
+                                                "id": "workbench.action.positionPanelBottom",
+                                                "label": "Bottom",
+                                                "checked": true
                                             }
                                         ]
                                     }
@@ -834,8 +823,7 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back",
-                        "enabled": false
+                        "label": "&&Back"
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -1354,11 +1342,6 @@
                 "label": "Ctrl+W",
                 "userSettingsLabel": "ctrl+w"
             },
-            "workbench.action.closeFolder": {
-                "label": "Ctrl+K F",
-                "isNative": false,
-                "userSettingsLabel": "ctrl+k f"
-            },
             "workbench.action.closeWindow": {
                 "label": "Alt+F4",
                 "userSettingsLabel": "alt+f4"
@@ -1737,14 +1720,13 @@
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/peter/Documents/test/bead2",
-            "backupPath": "/home/peter/.config/VSCodium/Backups/6e679335a796e6d46b53668402f93962",
+            "backupPath": "/home/peter/.config/VSCodium/Backups/1727246569361",
             "uiState": {
-                "mode": 0,
-                "x": 2330,
-                "y": 33,
-                "width": 1024,
-                "height": 768
+                "mode": 1,
+                "x": 0,
+                "y": 0,
+                "width": 1354,
+                "height": 729
             }
         },
         "openedWindows": []
@@ -1769,9 +1751,10 @@
             "editorPartMinWidth": 220,
             "titleBarHeight": 0,
             "activityBarWidth": 48,
-            "sideBarWidth": 178,
+            "sideBarWidth": 0,
             "statusBarHeight": 22,
             "windowBorder": false
         }
-    }
+    },
+    "telemetry.devDeviceId": "25c5bd8c-7690-413a-b56d-b9418c5bf575"
 }

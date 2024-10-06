@@ -1,0 +1,5 @@
+2024-08-12 18:59:09.959 [info] Extension host with pid 3932 started
+2024-08-12 18:59:09.959 [info] Skipping acquiring lock for /home/peter/.config/VSCodium/User/workspaceStorage/22f331173ceaafaedfe5019d55e591a9.
+2024-08-12 18:59:10.153 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-08-12 18:59:10.184 [info] Extension host terminating: renderer closed the MessagePort
+2024-08-12 18:59:10.191 [info] Extension host with pid 3932 exiting with code 0
