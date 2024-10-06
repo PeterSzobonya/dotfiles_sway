@@ -1,3 +1,6 @@
 2024/10/05-17:25:51.784 4 Reusing MANIFEST /home/peter/.config/thorium/Default/Session Storage/MANIFEST-000001
 2024/10/05-17:25:51.785 4 Recovering log #141
 2024/10/05-17:25:51.785 4 Reusing old log /home/peter/.config/thorium/Default/Session Storage/000141.log 
+2024/10/06-19:54:32.572 6 Level-0 table #145: started
+2024/10/06-19:54:32.579 6 Level-0 table #145: 23834 bytes OK
+2024/10/06-19:54:32.585 6 Delete type=0 #141

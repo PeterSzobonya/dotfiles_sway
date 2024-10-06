@@ -1,4 +1,0 @@
-2024/06/01-09:45:18.882 17355 Reusing MANIFEST /home/peter/.config/Postman/Partitions/f5a19e25-8390-4121-bdf4-acc82eedadd5/IndexedDB/https_desktop.postman.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/06/01-09:45:18.882 17355 Recovering log #8
-2024/06/01-09:45:18.886 17355 Reusing old log /home/peter/.config/Postman/Partitions/f5a19e25-8390-4121-bdf4-acc82eedadd5/IndexedDB/https_desktop.postman.com_0.indexeddb.leveldb/000008.log 
-2024/06/01-09:45:18.886 17355 Delete type=2 #7

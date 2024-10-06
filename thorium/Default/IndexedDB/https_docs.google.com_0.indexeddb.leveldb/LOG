@@ -1,3 +1,15 @@
-2024/10/06-19:46:39.031 831 Reusing MANIFEST /home/peter/.config/thorium/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/10/06-19:46:39.032 831 Recovering log #35
-2024/10/06-19:46:39.032 831 Reusing old log /home/peter/.config/thorium/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/000035.log 
+2024/10/06-19:56:39.035 831 Reusing MANIFEST /home/peter/.config/thorium/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/10/06-19:56:39.035 831 Recovering log #35
+2024/10/06-19:56:39.035 831 Reusing old log /home/peter/.config/thorium/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/000035.log 
+2024/10/06-19:58:06.228 832 Level-0 table #40: started
+2024/10/06-19:58:06.230 832 Level-0 table #40: 6078 bytes OK
+2024/10/06-19:58:06.233 832 Delete type=0 #35
+2024/10/06-19:58:06.234 832 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/10/06-19:58:06.234 832 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x10\x00s\x00c\x00h\x00e\x00d\x00u\x00l\x00e\x00r\x00F\x00r\x00a\x00m\x00e\x00-\x00n' @ 27661 : 1
+2024/10/06-19:58:06.234 832 Compacting 1@1 + 1@2 files
+2024/10/06-19:58:06.280 832 Generated table #41@1: 1347 keys, 2126178 bytes
+2024/10/06-19:58:06.280 832 Compacted 1@1 + 1@2 files => 2126178 bytes
+2024/10/06-19:58:06.283 832 compacted to: files[ 0 0 2 0 0 0 0 ]
+2024/10/06-19:58:06.283 832 Delete type=2 #40
+2024/10/06-19:58:06.283 832 Delete type=2 #37
+2024/10/06-19:58:06.284 832 Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x10\x00s\x00c\x00h\x00e\x00d\x00u\x00l\x00e\x00r\x00F\x00r\x00a\x00m\x00e\x00-\x00n' @ 27661 : 1 .. (end); will stop at (end)

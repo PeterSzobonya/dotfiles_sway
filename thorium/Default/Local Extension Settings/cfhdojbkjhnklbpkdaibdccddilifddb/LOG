@@ -1,3 +1,6 @@
 2024/10/05-17:25:52.202 83a Reusing MANIFEST /home/peter/.config/thorium/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/MANIFEST-000001
 2024/10/05-17:25:52.202 83a Recovering log #53
 2024/10/05-17:25:52.208 83a Reusing old log /home/peter/.config/thorium/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/000053.log 
+2024/10/06-19:57:58.729 834 Level-0 table #59: started
+2024/10/06-19:57:58.745 834 Level-0 table #59: 1473562 bytes OK
+2024/10/06-19:57:58.751 834 Delete type=0 #53
